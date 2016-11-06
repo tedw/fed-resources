@@ -7,6 +7,8 @@
 - [Progressive Enhancement](#progressive-enhancement)
 - [Newsletters](#newsletters)
 - [Misc](#misc)
+- [Job Search Resources](#job-search-resources)
+- [On Being A Developer](#on-being-a-developer)
 
 ## HTML
 - Book about HTML5 http://www.truthabouthtml5.com
@@ -98,14 +100,24 @@
 - https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
 - https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews
 - https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+- https://dev.to/argo/our-hiring-process
 - Questions to ask interviewers
   - https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a
   - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
+- People’s rejection stories http://rejected.us
+- https://www.interviewcake.com
 
 ## On Being A Developer
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
 - http://learntocodewith.me/posts/what-new-coders-must-know/
-- People’s rejection stories http://rejected.us
 - http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
 - https://www.newfangled.com/tips-from-the-pragmatic-programmer/
 - https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
+- http://blog.hut8labs.com/coding-fast-and-slow.html
+- https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/
+
+## Long Reads
+- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+- https://www.newfangled.com/permanent-transition/
+- http://idlewords.com/talks/web_design_first_100_years.htm
+
