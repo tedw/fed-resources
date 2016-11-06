@@ -4,6 +4,7 @@
 - Book about HTML5 http://www.truthabouthtml5.com
 - Table example http://jsbin.com/OXijigU/edit?html,css,output
 - Table guide https://css-tricks.com/complete-guide-table-element/
+- Alt text examples http://w3c.github.io/alt-techniques/
 
 ## CSS basics
 - General reference http://tympanus.net/codrops/css_reference
@@ -41,8 +42,22 @@
 - https://zetafleet.com/blog/2015/11/progressive-enhancement-needs-better-advocacy.html
 - https://adactio.com/journal/9963
 
-# Misc
+## Newsletters
+- https://webplatformdaily.org
+- http://sidebar.io
+- https://web-design-weekly.com
+- https://www.smashingmagazine.com/the-smashing-newsletter
+- http://www.hackernewsletter.com
+- http://frontendfocus.co
+- http://css-weekly.com
+- http://javascriptweekly.com
+- http://www.theuxnewsletter.com
+
+## Misc
 - [Notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - http://fedsonslack.com
+- https://uptodate.frontendrescue.org
+- https://github.com/dypsilon/frontend-dev-bookmarks
+- https://github.com/sindresorhus/awesome
