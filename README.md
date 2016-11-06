@@ -9,6 +9,7 @@
 - [Misc](#misc)
 - [Job Search Resources](#job-search-resources)
 - [On Being A Developer](#on-being-a-developer)
+- [Long Reads](#long-reads)
 
 ## HTML
 - Book about HTML5 http://www.truthabouthtml5.com
