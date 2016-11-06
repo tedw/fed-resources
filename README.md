@@ -25,9 +25,10 @@
 - Sass style guidelines https://css-tricks.com/sass-style-guide/
 - Class naming conventions https://medium.com/@cathy_dutton/css-layers-afff4ae66649
 - Class naming advice https://www.sitepoint.com/bem-smacss-advice-from-developers/
+- Example CSS interview questions https://css-tricks.com/interview-questions-css/
 
 ## JS
-- http://eloquentjavascript.net/
+- http://eloquentjavascript.net
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
 - http://bonsaiden.github.io/JavaScript-Garden/
 - https://addyosmani.com/blog/essentialjsdesignpatterns/
@@ -69,3 +70,42 @@
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/sindresorhus/awesome
+- https://codefights.com
+
+## Job Search Resources
+
+### Job Boards
+- http://www.authenticjobs.com
+- https://jobs.github.com/positions
+- http://careers.stackoverflow.com
+- http://jobs.smashingmagazine.com
+- http://zurb.com/jobs
+- http://www.krop.com/creative-jobs/developer/
+- http://www.idealist.org
+- http://stackshare.io/match
+- https://weworkremotely.com (remote positions only)
+- Freelance work http://superbooked.com
+
+### Salaries
+- https://www.glassdoor.com
+- https://www.linkedin.com/salary/
+- https://open.buffer.com/transparent-salaries/
+
+### General Advice
+- https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30#.kmyxvjz4h
+- https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/
+- https://medium.com/the-year-of-the-looking-glass/how-to-impress-an-interviewer-c210d9d8e84a
+- https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
+- https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews
+- https://www.sitepoint.com/5-typical-javascript-interview-exercises/
+- Questions to ask interviewers
+  - https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a
+  - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
+
+## On Being A Developer
+- https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
+- http://learntocodewith.me/posts/what-new-coders-must-know/
+- People’s rejection stories http://rejected.us
+- http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
+- https://www.newfangled.com/tips-from-the-pragmatic-programmer/
+- https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
