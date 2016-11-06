@@ -121,4 +121,5 @@
 - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 - https://www.newfangled.com/permanent-transition/
 - http://idlewords.com/talks/web_design_first_100_years.htm
+- http://frankchimero.com/writing/the-webs-grain/
 
