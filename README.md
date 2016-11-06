@@ -1,12 +1,20 @@
 # Front-End Dev Resources
 
+- [HTML](#html)
+- [CSS](#css)
+- [JS](#js)
+- [Accessibility](#accessibility)
+- [Progressive Enhancement](#progressive-enhancement)
+- [Newsletters](#newsletters)
+- [Misc](#misc)
+
 ## HTML
 - Book about HTML5 http://www.truthabouthtml5.com
 - Table example http://jsbin.com/OXijigU/edit?html,css,output
 - Table guide https://css-tricks.com/complete-guide-table-element/
 - Alt text examples http://w3c.github.io/alt-techniques/
 
-## CSS basics
+## CSS
 - General reference http://tympanus.net/codrops/css_reference
 - Box model visualized http://adamkaplan.me/grid/
 - All about floats https://css-tricks.com/all-about-floats/
