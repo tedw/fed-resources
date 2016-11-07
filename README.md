@@ -7,9 +7,9 @@
 - [Progressive Enhancement](#progressive-enhancement)
 - [Newsletters](#newsletters)
 - [Misc](#misc)
-- [Job Search Resources](#job-search-resources)
 - [On Being A Developer](#on-being-a-developer)
 - [Long Reads](#long-reads)
+- [Job Search Resources](#job-search-resources)
 - [Chrome Extensions](#chrome-extensions)
 
 ## HTML
@@ -28,6 +28,9 @@
 
 ## CSS
 - General reference http://tympanus.net/codrops/css_reference
+- Font size units https://css-tricks.com/css-font-size/
+- Units http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When
+- Attribute selectors https://css-tricks.com/attribute-selectors/
 - Box model visualized http://adamkaplan.me/grid/
 - All about floats https://css-tricks.com/all-about-floats/
 - Positioning http://blog.froont.com/positioning-in-web-design/
@@ -87,6 +90,25 @@
 - https://github.com/sindresorhus/awesome
 - https://codefights.com
 
+## On Being A Developer
+- https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
+- http://learntocodewith.me/posts/what-new-coders-must-know/
+- http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
+- https://www.newfangled.com/tips-from-the-pragmatic-programmer/
+- https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
+- http://blog.hut8labs.com/coding-fast-and-slow.html
+- https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/
+- https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
+- Imposter syndrome
+  - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
+  - https://davidwalsh.name/impostor-syndrome
+
+## Long Reads
+- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+- https://www.newfangled.com/permanent-transition/
+- http://idlewords.com/talks/web_design_first_100_years.htm
+- http://frankchimero.com/writing/the-webs-grain/
+
 ## Job Search Resources
 
 ### Job Boards
@@ -119,21 +141,6 @@
   - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
 - People’s rejection stories http://rejected.us
 - https://www.interviewcake.com
-
-## On Being A Developer
-- https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
-- http://learntocodewith.me/posts/what-new-coders-must-know/
-- http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
-- https://www.newfangled.com/tips-from-the-pragmatic-programmer/
-- https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
-- http://blog.hut8labs.com/coding-fast-and-slow.html
-- https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/
-
-## Long Reads
-- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
-- https://www.newfangled.com/permanent-transition/
-- http://idlewords.com/talks/web_design_first_100_years.htm
-- http://frankchimero.com/writing/the-webs-grain/
 
 ## Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
