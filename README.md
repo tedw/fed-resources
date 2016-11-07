@@ -40,6 +40,7 @@
 - Sass style guidelines https://css-tricks.com/sass-style-guide/
 - Class naming conventions https://medium.com/@cathy_dutton/css-layers-afff4ae66649
 - Class naming advice https://www.sitepoint.com/bem-smacss-advice-from-developers/
+- More naming advice http://bradfrost.com/blog/post/css-architecture-for-design-systems/
 - Example CSS interview questions https://css-tricks.com/interview-questions-css/
 - Responsive design patterns https://bradfrost.github.io/this-is-responsive/patterns.html
 
