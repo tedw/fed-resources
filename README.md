@@ -81,7 +81,7 @@
 - http://www.theuxnewsletter.com
 
 ## Misc
-- [Notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
+- [My notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - http://fedsonslack.com
