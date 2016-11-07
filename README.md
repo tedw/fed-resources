@@ -12,10 +12,16 @@
 - [Long Reads](#long-reads)
 
 ## HTML
+- Periodic table of HTML elements https://madebymike.com.au/html5-periodic-table/
 - Book about HTML5 http://www.truthabouthtml5.com
+- http://marksheet.io 
 - Table example http://jsbin.com/OXijigU/edit?html,css,output
 - Table guide https://css-tricks.com/complete-guide-table-element/
 - Alt text examples http://w3c.github.io/alt-techniques/
+- https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md
+- https://css-tricks.com/essential-meta-tags-social-media/
+- http://wtfhtmlcss.com
+- Responsive image tutorial https://cloudfour.com/thinks/responsive-images-101-definitions/
 
 ## CSS
 - General reference http://tympanus.net/codrops/css_reference
@@ -29,6 +35,7 @@
 - Class naming conventions https://medium.com/@cathy_dutton/css-layers-afff4ae66649
 - Class naming advice https://www.sitepoint.com/bem-smacss-advice-from-developers/
 - Example CSS interview questions https://css-tricks.com/interview-questions-css/
+- Responsive design patterns https://bradfrost.github.io/this-is-responsive/patterns.html
 
 ## JS
 - http://eloquentjavascript.net
