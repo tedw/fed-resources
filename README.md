@@ -10,9 +10,11 @@
 - [Job Search Resources](#job-search-resources)
 - [On Being A Developer](#on-being-a-developer)
 - [Long Reads](#long-reads)
+- [Chrome Extensions](#chrome-extensions)
 
 ## HTML
 - Periodic table of HTML elements https://madebymike.com.au/html5-periodic-table/
+- https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 - Book about HTML5 http://www.truthabouthtml5.com
 - http://marksheet.io 
 - Table example http://jsbin.com/OXijigU/edit?html,css,output
@@ -22,6 +24,7 @@
 - https://css-tricks.com/essential-meta-tags-social-media/
 - http://wtfhtmlcss.com
 - Responsive image tutorial https://cloudfour.com/thinks/responsive-images-101-definitions/
+- Validator https://html5.validator.nu
 
 ## CSS
 - General reference http://tympanus.net/codrops/css_reference
@@ -45,6 +48,8 @@
 - http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html
 - https://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954
 - https://www.youtube.com/watch?v=DN4yLZB1vUQ
+- https://es6.io
+- https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620
 
 ## Accessibility
 - http://a11yproject.com/posts/getting-started-aria/
@@ -130,3 +135,32 @@
 - http://idlewords.com/talks/web_design_first_100_years.htm
 - http://frankchimero.com/writing/the-webs-grain/
 
+## Chrome Extensions
+- [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
+- [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
+- [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
+- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance
+- [Octotree](https://github.com/buunguyen/octotree) - Add tree view sidebar to GitHub
+- [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
+- [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
+- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
+- [Full-page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+- [Copy Link Text](https://chrome.google.com/webstore/detail/copy-link-text/lhdokmjpoambonhlpgcodobebebjdeil) - Adds option to copy link text (not URL)
+- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+- [Earth View](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh) - Satellite image background in new tabs
+- [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Highlight which elements have JS events bound to them
+- [HTML5 Storage Manager](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd)
+- [EditThisCookie](http://www.editthiscookie.com)
+- [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
+- [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Accessibility audit
+- [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+- [Octolinker](http://octolinker.github.io) - Make package names clickable in package.json
+- [Datalayer Inspector](https://chrome.google.com/webstore/detail/datalayer-inspector/kmcbdogdandhihllalknlcjfpdjcleom) - Log Google Tag Manager data to console 
+- [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) - Debug Google Tag Manager
+- [Google Analytics Debugger](https://github.com/keithclark/gadebugger)
+- [45to75](https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd) - Add character count to context menu
+- [Project Naptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - OCR extension lets you copy text in an image
+- [Share Extensions](https://chrome.google.com/webstore/detail/share-extensions/chdafcbnfkfenoeejpaeenpdamhmalhe) - Export list of all of your extensions
+- [Rails Panel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg) - Haven't used this, but looks cool
+- Lots more out there! https://chrome.google.com/webstore/category/extensions
+- Just be aware that adding extensions can slow down your browser and introduce JS errors. I recommend disabling anything you don’t use regularly.
