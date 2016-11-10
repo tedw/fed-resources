@@ -90,6 +90,7 @@
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/sindresorhus/awesome
 - https://codefights.com
+- https://devfreebooks.github.io
 
 ## On Being A Developer
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
@@ -146,6 +147,7 @@
   - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
 - People’s rejection stories http://rejected.us
 - https://www.interviewcake.com
+- https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
 
 ## Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
