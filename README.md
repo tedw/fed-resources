@@ -25,6 +25,7 @@
 - http://wtfhtmlcss.com
 - Responsive image tutorial https://cloudfour.com/thinks/responsive-images-101-definitions/
 - Validator https://html5.validator.nu
+- https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## CSS
 - General reference http://tympanus.net/codrops/css_reference
@@ -54,6 +55,7 @@
 - https://www.youtube.com/watch?v=DN4yLZB1vUQ
 - https://es6.io
 - https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
 
 ## Accessibility
 - http://a11yproject.com/posts/getting-started-aria/
@@ -91,6 +93,7 @@
 - https://github.com/sindresorhus/awesome
 - https://codefights.com
 - https://devfreebooks.github.io
+- Guide to cross-browser testing https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 
 ## On Being A Developer
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
