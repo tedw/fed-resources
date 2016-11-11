@@ -83,6 +83,7 @@
 - http://css-weekly.com
 - http://javascriptweekly.com
 - http://www.theuxnewsletter.com
+- http://a11yweekly.com
 
 ## Misc
 - [My notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
