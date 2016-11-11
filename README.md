@@ -56,6 +56,7 @@
 - https://es6.io
 - https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
+- https://github.com/getify/You-Dont-Know-JS
 
 ## Accessibility
 - http://a11yproject.com/posts/getting-started-aria/
