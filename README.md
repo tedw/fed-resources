@@ -47,6 +47,7 @@
 
 ## JS
 - http://eloquentjavascript.net
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
 - http://bonsaiden.github.io/JavaScript-Garden/
 - https://addyosmani.com/blog/essentialjsdesignpatterns/
