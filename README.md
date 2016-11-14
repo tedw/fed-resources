@@ -3,6 +3,7 @@
 - [HTML](#html)
 - [CSS](#css)
 - [JS](#js)
+ - [MVC Frameworks](#mvc-frameworks)
 - [Accessibility](#accessibility)
 - [Progressive Enhancement](#progressive-enhancement)
 - [Newsletters](#newsletters)
@@ -10,6 +11,9 @@
 - [On Being A Developer](#on-being-a-developer)
 - [Long Reads](#long-reads)
 - [Job Search Resources](#job-search-resources)
+ - [Job Boards](#job-boards)
+ - [Salaries](#salaries)
+ - [General Advice](#general-advice)
 - [Chrome Extensions](#chrome-extensions)
 
 ## HTML
@@ -130,8 +134,8 @@
 - http://alistapart.com/article/defeating-workplace-drama-with-emotional-intelligence
 - http://blog.hut8labs.com/coding-fast-and-slow.html
 - Imposter syndrome
-  - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
-  - https://davidwalsh.name/impostor-syndrome
+ - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
+ - https://davidwalsh.name/impostor-syndrome
 
 ## Long Reads
 - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
@@ -168,8 +172,8 @@
 - https://www.sitepoint.com/5-typical-javascript-interview-exercises/
 - https://dev.to/argo/our-hiring-process
 - Questions to ask interviewers
-  - https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a
-  - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
+ - https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a
+ - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
 - People’s rejection stories http://rejected.us
 - https://www.interviewcake.com
 - https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
