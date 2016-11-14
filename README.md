@@ -54,7 +54,6 @@
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
 - http://bonsaiden.github.io/JavaScript-Garden/
-- https://addyosmani.com/blog/essentialjsdesignpatterns/
 - http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html
 - https://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954
 - https://www.youtube.com/watch?v=DN4yLZB1vUQ
