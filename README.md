@@ -60,6 +60,23 @@
 - https://github.com/getify/You-Dont-Know-JS
 - http://read.humanjavascript.com
 
+### MVC Frameworks
+- https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
+- To-do app examples using various MVC frameworks http://todomvc.com
+- https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/
+- https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/
+-	https://reactforbeginners.com
+-	https://learnredux.com
+-	https://facebook.github.io/react/docs/thinking-in-react.html
+-	https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/
+-	https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51
+-	https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+-	https://www.viget.com/articles/know-lupus-with-react
+- http://whatpixel.com/learn-angular2-from-scratch/
+- https://adactio.com/journal/8245 (Jan 2015)
+- http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html (Jan 2015)
+- https://vuejs.org
+
 ## Accessibility
 - http://a11yproject.com/posts/getting-started-aria/
 - http://alistapart.com/article/reframing-accessibility-for-the-web
