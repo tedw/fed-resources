@@ -176,6 +176,7 @@
 - People’s rejection stories http://rejected.us
 - https://www.interviewcake.com
 - https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
+- https://whosfiring.com
 
 ## Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
