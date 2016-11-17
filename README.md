@@ -119,6 +119,7 @@
 - https://devfreebooks.github.io
 - Guide to cross-browser testing https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 - How DNS works https://howdns.works
+- You Are Not Paid to Write Code http://bravenewgeek.com/you-are-not-paid-to-write-code/
 
 ## On Being A Developer
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
@@ -177,6 +178,7 @@
 - https://www.interviewcake.com
 - https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
 - https://whosfiring.com
+- https://business.stackoverflow.com/blog
 
 ## Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
