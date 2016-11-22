@@ -164,7 +164,8 @@
 - https://open.buffer.com/transparent-salaries/
 
 ### General Advice
-- https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30#.kmyxvjz4h
+- https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
+- https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30
 - https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/
 - https://medium.com/the-year-of-the-looking-glass/how-to-impress-an-interviewer-c210d9d8e84a
 - https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
