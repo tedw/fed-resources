@@ -4,6 +4,7 @@
 - [CSS](#css)
 - [JS](#js)
  - [MVC Frameworks](#mvc-frameworks)
+- [Performance](#performance)
 - [Accessibility](#accessibility)
 - [Progressive Enhancement](#progressive-enhancement)
 - [Newsletters](#newsletters)
@@ -75,10 +76,25 @@
 -	https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51
 -	https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 -	https://www.viget.com/articles/know-lupus-with-react
+- https://24ways.org/2015/universal-react/
 - http://whatpixel.com/learn-angular2-from-scratch/
 - https://adactio.com/journal/8245 (Jan 2015)
 - http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html (Jan 2015)
 - https://vuejs.org
+- https://adactio.com/journal/9963
+ - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
+
+## Performance
+- https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/
+- https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
+- http://idlewords.com/talks/website_obesity.htm
+- https://bocoup.com/weblog/smaller-faster-websites
+- https://speakerdeck.com/tkadlec/once-more-with-feeling
+- https://speakerdeck.com/addyosmani/css-performance-tooling
+- https://speakerdeck.com/smashingmag/improving-web-fonts-performance
+- https://jonsuh.com/blog/need-for-speed-2/
+-	https://www.zachleat.com/web/comprehensive-webfonts/
+- http://deanhume.com/Home/BlogPost/ten-things-you-didnt-know-about-webpagetest-org/10145
 
 ## Accessibility
 - http://a11yproject.com/posts/getting-started-aria/
