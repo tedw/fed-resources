@@ -153,6 +153,7 @@
 - Imposter syndrome
  - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
  - https://davidwalsh.name/impostor-syndrome
+ - https://trackchanges.postlight.com/were-all-frauds-2fbd9b4440b6
 
 ## Long Reads
 - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
