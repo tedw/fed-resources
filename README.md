@@ -103,6 +103,7 @@
 - https://the-pastry-box-project.net/anne-gibson/2014-July-31
 - http://heydonworks.com/practical_aria_examples/
 - http://webaim.org/articles/voiceover/
+- https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
 
 ## Progressive Enhancement
 - http://kryogenix.org/code/browser/everyonehasjs.html
