@@ -112,6 +112,7 @@
 - https://medium.com/@AaronGustafson/the-true-cost-of-progressive-enhancement-d395b6502979
 - https://zetafleet.com/blog/2015/11/progressive-enhancement-needs-better-advocacy.html
 - https://adactio.com/journal/9963
+- https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/
 - https://sonniesedge.co.uk/blog/progressive-enhancement
 
 ## Newsletters
