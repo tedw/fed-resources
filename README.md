@@ -163,6 +163,7 @@
 - https://www.newfangled.com/permanent-transition/
 - http://idlewords.com/talks/web_design_first_100_years.htm
 - http://frankchimero.com/writing/the-webs-grain/
+- https://resilientwebdesign.com
 - https://leanpub.com/nightowls
 
 ## Job Search Resources
