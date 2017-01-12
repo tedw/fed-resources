@@ -225,6 +225,7 @@
 - [Datalayer Inspector](https://chrome.google.com/webstore/detail/datalayer-inspector/kmcbdogdandhihllalknlcjfpdjcleom) - Log Google Tag Manager data to console 
 - [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) - Debug Google Tag Manager
 - [Google Analytics Debugger](https://github.com/keithclark/gadebugger)
+- [CSS Peeper](https://csspeeper.com) - Displays an element’s CSS styling in an attractive widget, along with color palette info and links to all assets
 - [45to75](https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd) - Add character count to context menu
 - [Project Naptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - OCR extension lets you copy text in an image
 - [Share Extensions](https://chrome.google.com/webstore/detail/share-extensions/chdafcbnfkfenoeejpaeenpdamhmalhe) - Export list of all of your extensions
