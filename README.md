@@ -208,6 +208,7 @@
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
 - [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance
 - [Octotree](https://github.com/buunguyen/octotree) - Add tree view sidebar to GitHub
+- [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
 - [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 - [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
 - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
