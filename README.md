@@ -152,6 +152,7 @@
 - https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 - http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 - http://alistapart.com/article/defeating-workplace-drama-with-emotional-intelligence
+- http://www.the-haystack.com/2016/01/05/reality-is-messy/
 - Imposter syndrome
  - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
  - https://davidwalsh.name/impostor-syndrome
