@@ -64,6 +64,7 @@
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
 - https://github.com/getify/You-Dont-Know-JS
 - http://read.humanjavascript.com
+- http://survivejs.com/webpack/introduction/
 
 ### MVC Frameworks
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
