@@ -174,6 +174,7 @@
 - https://jobs.github.com/positions
 - http://careers.stackoverflow.com
 - http://jobs.smashingmagazine.com
+- https://codepen.io/jobs
 - http://zurb.com/jobs
 - http://www.krop.com/creative-jobs/developer/
 - http://www.idealist.org
