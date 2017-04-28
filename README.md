@@ -1,23 +1,23 @@
 # Front-End Dev Resources
 
-- [HTML](#html)
-- [CSS](#css)
-- [JS](#js)
- - [MVC Frameworks](#mvc-frameworks)
-- [Performance](#performance)
-- [Accessibility](#accessibility)
-- [Progressive Enhancement](#progressive-enhancement)
-- [Newsletters](#newsletters)
-- [Misc](#misc)
-- [On Being A Developer](#on-being-a-developer)
-- [Long Reads](#long-reads)
-- [Job Search Resources](#job-search-resources)
- - [Job Boards](#job-boards)
- - [Salaries](#salaries)
- - [General Advice](#general-advice)
-- [Chrome Extensions](#chrome-extensions)
+- [🏢 HTML](#html)
+- [🎨 CSS](#css)
+- [⚡️ JS](#js)
+  - [🚀 MVC Frameworks](#mvc-frameworks)
+- [📊 Performance](#performance)
+- [♿️ Accessibility](#accessibility)
+- [📶 Progressive Enhancement](#progressive-enhancement)
+- [✉️ Newsletters](#newsletters)
+- [🎉 Misc](#misc)
+- [💻 On Being A Developer](#on-being-a-developer)
+- [📚 Long Reads](#long-reads)
+- [🔎 Job Search Resources](#job-search-resources)
+  - [📰 Job Boards](#job-boards)
+  - [💰 Salaries](#salaries)
+  - [💁 General Advice](#general-advice)
+- [🌎 Chrome Extensions](#chrome-extensions)
 
-## HTML
+## 🏢 HTML
 - Periodic table of HTML elements https://madebymike.com.au/html5-periodic-table/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 - Book about HTML5 http://www.truthabouthtml5.com
@@ -32,7 +32,7 @@
 - Validator https://html5.validator.nu
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 
-## CSS
+## 🎨 CSS
 - General reference http://tympanus.net/codrops/css_reference
 - Font size units https://css-tricks.com/css-font-size/
 - Units http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When
@@ -51,7 +51,7 @@
 - Example CSS interview questions https://css-tricks.com/interview-questions-css/
 - Responsive design patterns https://bradfrost.github.io/this-is-responsive/patterns.html
 
-## JS
+## ⚡️ JS
 - http://eloquentjavascript.net
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
@@ -66,7 +66,7 @@
 - http://read.humanjavascript.com
 - http://survivejs.com/webpack/introduction/
 
-### MVC Frameworks
+### 🚀 MVC Frameworks
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
 - To-do app examples using various MVC frameworks http://todomvc.com
 - https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/
@@ -86,7 +86,7 @@
 - https://adactio.com/journal/9963
  - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 
-## Performance
+## 📊 Performance
 - https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/
 - https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 - http://idlewords.com/talks/website_obesity.htm
@@ -98,7 +98,7 @@
 -	https://www.zachleat.com/web/comprehensive-webfonts/
 - http://deanhume.com/Home/BlogPost/ten-things-you-didnt-know-about-webpagetest-org/10145
 
-## Accessibility
+## ♿️ Accessibility
 - http://a11yproject.com/posts/getting-started-aria/
 - http://alistapart.com/article/reframing-accessibility-for-the-web
 - https://the-pastry-box-project.net/anne-gibson/2014-July-31
@@ -106,7 +106,7 @@
 - http://webaim.org/articles/voiceover/
 - https://developer.mozilla.org/en-US/docs/Learn/Accessibility
 
-## Progressive Enhancement
+## 📶 Progressive Enhancement
 - http://kryogenix.org/code/browser/everyonehasjs.html
 - http://www.punkchip.com/why-support-javascript-disabled/
 - https://www.christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/
@@ -116,7 +116,7 @@
 - https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/
 - https://sonniesedge.co.uk/blog/progressive-enhancement
 
-## Newsletters
+## ✉️ Newsletters
 - https://webplatformdaily.org
 - http://sidebar.io
 - https://web-design-weekly.com
@@ -128,7 +128,7 @@
 - http://www.theuxnewsletter.com
 - http://a11yweekly.com
 
-## Misc
+## 🎉 Misc
 - [My notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
@@ -142,7 +142,7 @@
 - How DNS works https://howdns.works
 - You Are Not Paid to Write Code http://bravenewgeek.com/you-are-not-paid-to-write-code/
 
-## On Being A Developer
+## 💻 On Being A Developer
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
 - http://learntocodewith.me/posts/what-new-coders-must-know/
 - http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
@@ -159,7 +159,7 @@
  - https://davidwalsh.name/impostor-syndrome
  - https://trackchanges.postlight.com/were-all-frauds-2fbd9b4440b6
 
-## Long Reads
+## 📚 Long Reads
 - [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it)
 - [The Permanent Transition](https://www.newfangled.com/permanent-transition/)
 - [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
@@ -167,9 +167,9 @@
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 - [Resilient Web Design](https://resilientwebdesign.com)
 
-## Job Search Resources
+## 🔎 Job Search Resources
 
-### Job Boards
+### 📰 Job Boards
 - http://www.authenticjobs.com
 - https://jobs.github.com/positions
 - http://careers.stackoverflow.com
@@ -183,13 +183,13 @@
 - Freelance work http://superbooked.com
 - Design and front-end http://dc.aiga.org/jobs/
 
-### Salaries
+### 💰 Salaries
 - https://www.glassdoor.com
 - https://www.linkedin.com/salary/
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
 
-### General Job Advice
+### 💁 General Job Advice
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 - [Don’t Get Attached, It’s Just Luck](https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30)
@@ -208,7 +208,7 @@
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
 
-## Chrome Extensions
+## 🌎 Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
 - [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
