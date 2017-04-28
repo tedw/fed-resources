@@ -18,19 +18,19 @@
 - [🌎 Chrome Extensions](#chrome-extensions)
 
 ## 🏢 HTML
-- Periodic table of HTML elements https://madebymike.com.au/html5-periodic-table/
-- https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-- Book about HTML5 http://www.truthabouthtml5.com
-- http://marksheet.io 
-- Table example http://jsbin.com/OXijigU/edit?html,css,output
-- Table guide https://css-tricks.com/complete-guide-table-element/
-- Alt text examples http://w3c.github.io/alt-techniques/
-- https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md
-- https://css-tricks.com/essential-meta-tags-social-media/
-- http://wtfhtmlcss.com
-- Responsive image tutorial https://cloudfour.com/thinks/responsive-images-101-definitions/
-- Validator https://html5.validator.nu
-- https://developer.mozilla.org/en-US/docs/Web/HTML
+- [Periodic table of HTML elements](https://madebymike.com.au/html5-periodic-table/)
+- [HTML5 Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [The Truth About HTML5](http://www.truthabouthtml5.com) (book)
+- [MarkSheet HTML & CSS Tutorial](http://marksheet.io)
+- [Table example](http://jsbin.com/OXijigU/edit?html,css,output)
+- [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+- [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
+- [HTML5 Boilerplate Docs](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
+- [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
+- [WTF, HTML and CSS?](http://wtfhtmlcss.com)
+- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+- [HTML5 Validator](https://html5.validator.nu)
+- [MDN HTML Resources](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## 🎨 CSS
 - General reference http://tympanus.net/codrops/css_reference
