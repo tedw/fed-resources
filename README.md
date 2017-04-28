@@ -160,12 +160,12 @@
  - https://trackchanges.postlight.com/were-all-frauds-2fbd9b4440b6
 
 ## Long Reads
-- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
-- https://www.newfangled.com/permanent-transition/
-- http://idlewords.com/talks/web_design_first_100_years.htm
-- http://frankchimero.com/writing/the-webs-grain/
-- https://resilientwebdesign.com
-- https://leanpub.com/nightowls
+- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it)
+- [The Permanent Transition](https://www.newfangled.com/permanent-transition/)
+- [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
+- [The Web’s Grain](http://frankchimero.com/writing/the-webs-grain/)
+- [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
+- [Resilient Web Design](https://resilientwebdesign.com)
 
 ## Job Search Resources
 
@@ -181,30 +181,32 @@
 - http://stackshare.io/match
 - https://weworkremotely.com (remote positions only)
 - Freelance work http://superbooked.com
+- Design and front-end http://dc.aiga.org/jobs/
 
 ### Salaries
 - https://www.glassdoor.com
 - https://www.linkedin.com/salary/
 - https://open.buffer.com/transparent-salaries/
+- https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
 
-### General Advice
-- https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
-- https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30
-- https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/
-- https://medium.com/the-year-of-the-looking-glass/how-to-impress-an-interviewer-c210d9d8e84a
-- https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
-- https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews
-- https://www.sitepoint.com/5-typical-javascript-interview-exercises/
-- https://dev.to/argo/our-hiring-process
-- Questions to ask interviewers
- - https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a
- - https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions
-- People’s rejection stories http://rejected.us
-- https://www.interviewcake.com
-- https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
-- https://whosfiring.com
-- https://business.stackoverflow.com/blog
-- https://github.com/jwasham/google-interview-university
+### General Job Advice
+- [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+- [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+- [Don’t Get Attached, It’s Just Luck](https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30)
+- [How To Prepare For A Front-End Job Interview](https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/)
+- [How to Impress an Interviewer](https://medium.com/the-year-of-the-looking-glass/how-to-impress-an-interviewer-c210d9d8e84a)
+- [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
+- [A Guide to the Front-End Interview Process](https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
+- [5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
+- [Our Hiring Process](https://dev.to/argo/our-hiring-process)
+- [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
+- [What are the questions that can be asked when the interviewer asks "Any questions?"](https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions)
+- [Job rejection stories](http://rejected.us)
+- [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
+- [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
+- ~https://whosfiring.com~
+- [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
+- [Coding Interview University](https://github.com/jwasham/google-interview-university)
 
 ## Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
