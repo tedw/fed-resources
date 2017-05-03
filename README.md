@@ -2,7 +2,7 @@
 
 - [🏢 HTML](#-html)
 - [🎨 CSS](#-css)
-- [⚡️ JS](#-js)
+- [⚡️ JS](#️-js)
   - [🚀 MVC Frameworks](#-mvc-frameworks)
 - [📊 Performance](#-performance)
 - [♿️ Accessibility](#️-accessibility)
