@@ -5,7 +5,7 @@
 - [⚡️ JS](#-js)
   - [🚀 MVC Frameworks](#-mvc-frameworks)
 - [📊 Performance](#-performance)
-- [♿️ Accessibility](#-accessibility)
+- [♿️ Accessibility](#️-accessibility)
 - [📶 Progressive Enhancement](#-progressive-enhancement)
 - [✉️ Newsletters](#-newsletters)
 - [🎉 Misc](#-misc)
