@@ -7,7 +7,7 @@
 - [📊 Performance](#-performance)
 - [♿️ Accessibility](#️-accessibility)
 - [📶 Progressive Enhancement](#-progressive-enhancement)
-- [✉️ Newsletters](#-newsletters)
+- [✉️ Newsletters](#️-newsletters)
 - [🎉 Misc](#-misc)
 - [💻 On Being A Developer](#-on-being-a-developer)
 - [📚 Long Reads](#-long-reads)
