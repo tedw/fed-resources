@@ -14,7 +14,7 @@
 - [🔎 Job Search Resources](#-job-search-resources)
   - [📰 Job Boards](#-job-boards)
   - [💰 Salaries](#-salaries)
-  - [💁 General Advice](#-general-advice)
+  - [💁 General Advice](#-general-job-advice)
 - [🌎 Chrome Extensions](#-chrome-extensions)
 
 ## 🏢 HTML
