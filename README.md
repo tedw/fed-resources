@@ -8,6 +8,7 @@
 - [♿️ Accessibility](#️-accessibility)
 - [📶 Progressive Enhancement](#-progressive-enhancement)
 - [✉️ Newsletters](#️-newsletters)
+- [💬 People to follow](#-people-to-follow)
 - [🎉 Misc](#-misc)
 - [💻 On Being A Developer](#-on-being-a-developer)
 - [📚 Long Reads](#-long-reads)
