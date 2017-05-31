@@ -130,6 +130,32 @@
 - http://www.theuxnewsletter.com
 - http://a11yweekly.com
 
+## 💬 People to Follow
+- [@addyosmani](https://twitter.com/addyosmani)
+- [@ag_dubs](https://twitter.com/ag_dubs)
+- [@anna_debenham](https://twitter.com/anna_debenham)
+- [@beep](https://twitter.com/beep)
+- [@brad_frost](https://twitter.com/brad_frost)
+- [@chriscoyier](https://twitter.com/chriscoyier)
+- [@csswizardry](https://twitter.com/csswizardry)
+- [@dhh](https://twitter.com/dhh)
+- [@igrigorik](https://twitter.com/igrigorik)
+- [@jensimmons](https://twitter.com/jensimmons)
+- [@lara_hogan](https://twitter.com/lara_hogan)
+- [@LeaVerou](https://twitter.com/LeaVerou)
+- [@meyerweb](https://twitter.com/meyerweb)
+- [@MinaMarkham](https://twitter.com/MinaMarkham)
+- [@mylifeasalllly](https://twitter.com/mylifeasalllly)
+- [@newsycombinator](https://twitter.com/newsycombinator)
+- [@paul_irish](https://twitter.com/paul_irish)
+- [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)
+- [@sarah_edo](https://twitter.com/sarah_edo)
+- [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+- [@smashingmag](https://twitter.com/smashingmag)
+- [@standardista](https://twitter.com/standardista)
+- [@tameverts](https://twitter.com/tameverts)
+- [@TrentWalton](https://twitter.com/TrentWalton)
+
 ## 🎉 Misc
 - [My notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
 - https://uptodate.frontendrescue.org
