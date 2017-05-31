@@ -199,6 +199,7 @@
 - [How to Impress an Interviewer](https://medium.com/the-year-of-the-looking-glass/how-to-impress-an-interviewer-c210d9d8e84a)
 - [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 - [A Guide to the Front-End Interview Process](https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
+- [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5)
 - [5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - [Our Hiring Process](https://dev.to/argo/our-hiring-process)
 - [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
