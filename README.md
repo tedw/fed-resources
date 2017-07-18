@@ -109,6 +109,8 @@
 - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 - [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [Inclusive Components](https://inclusive-components.design)
+- [Empathy Prompts](https://empathyprompts.net)
+- [What I've Learned About Motor Impairment](http://simpleprimate.com/blog/motor)
 
 ## 📶 Progressive Enhancement
 - http://kryogenix.org/code/browser/everyonehasjs.html
