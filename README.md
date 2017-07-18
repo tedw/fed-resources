@@ -106,6 +106,7 @@
 - [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)
 - [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 - [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 - [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [Inclusive Components](https://inclusive-components.design)
