@@ -16,6 +16,7 @@
   - [📰 Job Boards](#-job-boards)
   - [💰 Salaries](#-salaries)
   - [💁 General Advice](#-general-job-advice)
+  - [🤔 Coding Interview Questions](#-coding-interview-questions)
 - [🌎 Chrome Extensions](#-chrome-extensions)
 
 ## 🏢 HTML
@@ -234,7 +235,6 @@
 - [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 - [A Guide to the Front-End Interview Process](https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
 - [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5)
-- [5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - [Our Hiring Process](https://dev.to/argo/our-hiring-process)
 - [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
 - [What are the questions that can be asked when the interviewer asks "Any questions?"](https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions)
@@ -243,6 +243,12 @@
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
 - ~https://whosfiring.com~
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
+
+### 🤔 Coding Interview Questions
+- [Career Cup](https://www.careercup.com)
+- [LeetCode](https://leetcode.com)
+- [Glassdoor](https://www.glassdoor.com/Interview/)
+- [Interview Cake](https://www.interviewcake.com)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
 
 ## 🌎 Chrome Extensions
