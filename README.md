@@ -252,6 +252,7 @@
 - [Glassdoor](https://www.glassdoor.com/Interview/)
 - [Interview Cake](https://www.interviewcake.com)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
+- [Udacity Technical Interview Course](https://www.udacity.com/course/technical-interview--ud513)
 
 ## 🌎 Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
