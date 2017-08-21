@@ -76,6 +76,7 @@
 - https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/
 -	https://reactforbeginners.com
 -	https://learnredux.com
+- https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
 -	https://facebook.github.io/react/docs/thinking-in-react.html
 -	https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/
 -	https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51
@@ -86,6 +87,7 @@
 - https://adactio.com/journal/8245 (Jan 2015)
 - http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html (Jan 2015)
 - https://vuejs.org
+- https://vuejs.org/v2/guide/comparison.html
 - https://adactio.com/journal/9963
  - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 
