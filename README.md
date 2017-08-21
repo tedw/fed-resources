@@ -89,7 +89,7 @@
 - https://vuejs.org
 - https://vuejs.org/v2/guide/comparison.html
 - https://adactio.com/journal/9963
- - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
+  - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 
 ## 📊 Performance
 - https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/
