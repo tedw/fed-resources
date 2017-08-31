@@ -195,6 +195,7 @@
 - http://alistapart.com/article/defeating-workplace-drama-with-emotional-intelligence
 - http://www.the-haystack.com/2016/01/05/reality-is-messy/
 - http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+- https://css-tricks.com/front-end-developer-aware/
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
