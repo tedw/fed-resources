@@ -232,6 +232,7 @@
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
 
 ### 💁 General Job Advice
+- [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 - [Don’t Get Attached, It’s Just Luck](https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30)
