@@ -233,6 +233,7 @@
 
 ### 💁 General Job Advice
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 - [Don’t Get Attached, It’s Just Luck](https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30)
