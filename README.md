@@ -200,6 +200,7 @@
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
   - https://trackchanges.postlight.com/were-all-frauds-2fbd9b4440b6
+  - https://rachsmith.com/2017/i-dont-have-imposter-syndrome
 
 ## 📚 Long Reads
 - [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it)
