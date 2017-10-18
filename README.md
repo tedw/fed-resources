@@ -229,6 +229,7 @@
 ### 💰 Salaries
 - https://www.glassdoor.com
 - https://www.linkedin.com/salary/
+- https://stackoverflow.com/jobs/salary
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
 
