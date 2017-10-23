@@ -92,6 +92,7 @@
   - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 
 ## 📊 Performance
+- http://designingforperformance.com
 - https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/
 - https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 - http://idlewords.com/talks/website_obesity.htm
