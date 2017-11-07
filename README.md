@@ -68,6 +68,7 @@
 - https://github.com/getify/You-Dont-Know-JS
 - http://read.humanjavascript.com
 - http://survivejs.com/webpack/introduction/
+- https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5
 
 ### 🚀 MVC Frameworks
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
