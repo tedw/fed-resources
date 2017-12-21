@@ -264,6 +264,8 @@
 - [Interview Cake](https://www.interviewcake.com)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
 - [Udacity Technical Interview Course](https://www.udacity.com/course/technical-interview--ud513)
+- [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 
 ## 🌎 Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
