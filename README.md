@@ -254,7 +254,6 @@
 - [Job rejection stories](http://rejected.us)
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
-- ~https://whosfiring.com~
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
 
 ### 🤔 Coding Interview Questions
