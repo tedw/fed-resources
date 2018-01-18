@@ -107,6 +107,7 @@
 - http://deanhume.com/Home/BlogPost/ten-things-you-didnt-know-about-webpagetest-org/10145
 - https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf
 - https://medium.com/reloading/javascript-start-up-performance-69200f43b201
+- [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
 
 ## ♿️ Accessibility
 - [Tips For Making Accessibility A Core Design Principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
