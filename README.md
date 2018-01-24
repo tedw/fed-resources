@@ -258,6 +258,7 @@
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
+- [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
 ### 🤔 Coding Interview Questions
 - [Career Cup](https://www.careercup.com)
