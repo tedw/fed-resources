@@ -252,6 +252,7 @@
 - [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5)
 - [Our Hiring Process](https://dev.to/argo/our-hiring-process)
 - [The perfect questions to ask in your job interview](https://www.keyvalues.com/culture-queries)
+- [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 - [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
 - [What are the questions that can be asked when the interviewer asks "Any questions?"](https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions)
 - [Job rejection stories](http://rejected.us)
