@@ -202,6 +202,7 @@
 - http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 - https://css-tricks.com/front-end-developer-aware/
 - https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f
+- https://frankchimero.com/writing/everything-easy-is-hard-again/
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
