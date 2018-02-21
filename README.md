@@ -273,6 +273,7 @@
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
+- [_Mission: Interview_](https://bigmachine.io/products/mission-interview)
 
 ## 🌎 Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
