@@ -16,7 +16,7 @@
   - [📰 Job Boards](#-job-boards)
   - [💰 Salaries](#-salaries)
   - [💁 General Advice](#-general-job-advice)
-  - [🤔 Coding Interview Questions](#-coding-interview-questions)
+  - [🤔 Technical Interview Prep](#-technical-interview-prep)
 - [🌎 Chrome Extensions](#-chrome-extensions)
 
 ## 🏢 HTML
@@ -262,7 +262,7 @@
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
 - [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
-### 🤔 Coding Interview Questions
+### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
 - [LeetCode](https://leetcode.com)
 - [Glassdoor](https://www.glassdoor.com/Interview/)
@@ -272,6 +272,7 @@
 - [Daily Coding Problem](https://dailycodingproblem.com)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
+- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
 
 ## 🌎 Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
