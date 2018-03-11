@@ -53,6 +53,7 @@
 - More naming advice http://bradfrost.com/blog/post/css-architecture-for-design-systems/
 - Example CSS interview questions https://css-tricks.com/interview-questions-css/
 - Responsive design patterns https://bradfrost.github.io/this-is-responsive/patterns.html
+- Cross-browser CSS tips https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/
 
 ## ⚡️ JS
 - http://eloquentjavascript.net
