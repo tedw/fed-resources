@@ -71,6 +71,7 @@
 - http://survivejs.com/webpack/introduction/
 - https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5
 - https://30secondsofcode.org
+- https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 
 ### 🚀 MVC Frameworks
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
