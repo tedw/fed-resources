@@ -128,6 +128,7 @@
 ## 📶 Progressive Enhancement
 - http://kryogenix.org/code/browser/everyonehasjs.html
 - http://www.punkchip.com/why-support-javascript-disabled/
+- https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care
 - https://www.christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/
 - https://medium.com/@AaronGustafson/the-true-cost-of-progressive-enhancement-d395b6502979
 - https://zetafleet.com/blog/2015/11/progressive-enhancement-needs-better-advocacy.html
