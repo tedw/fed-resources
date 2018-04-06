@@ -72,6 +72,7 @@
 - https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5
 - https://30secondsofcode.org
 - https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
+- https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
 
 ### 🚀 MVC Frameworks
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
