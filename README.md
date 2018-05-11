@@ -114,6 +114,7 @@
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 
 ## ♿️ Accessibility
+- [Inclusive Components](https://inclusive-components.design)
 - [Tips For Making Accessibility A Core Design Principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
 - [Getting Started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
 - [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)
