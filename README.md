@@ -268,12 +268,14 @@
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
 - [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 - [Fixing Impostor Syndrome In Coding Interviews](https://www.interviewcake.com/impostor-syndrome-in-programming-interviews)
+- [Ten Things I Learned from a Job Hunt for a Senior Engineering Role](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html)
 
 ### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
 - [LeetCode](https://leetcode.com)
 - [Glassdoor](https://www.glassdoor.com/Interview/)
 - [Interview Cake](https://www.interviewcake.com)
+- [Codility](https://app.codility.com/programmers/)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
 - [Udacity Technical Interview Course](https://www.udacity.com/course/technical-interview--ud513)
 - [Daily Coding Problem](https://dailycodingproblem.com)
