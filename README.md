@@ -281,6 +281,8 @@
 - [Udacity Technical Interview Course](https://www.udacity.com/course/technical-interview--ud513)
 - [Daily Coding Problem](https://dailycodingproblem.com)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [Coderbyte](https://www.coderbyte.com)
+- [HackerRank](https://www.hackerrank.com)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
