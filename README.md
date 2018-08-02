@@ -29,7 +29,7 @@
 - [HTML5 Boilerplate Docs](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com)
-- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)⭐️
+- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/) ⭐️
 - [HTML5 Validator](https://html5.validator.nu)
 - [MDN HTML Resources](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Form Linter](https://formlinter.com)
@@ -101,8 +101,8 @@
   - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 
 ## 📊 Performance
-- [Designing for Performance](http://designingforperformance.com)(ebook)⭐️
-- [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)⭐️
+- [Designing for Performance](http://designingforperformance.com)(ebook) ⭐️
+- [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) ⭐️
 - [RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 - http://idlewords.com/talks/website_obesity.htm
 - https://bocoup.com/weblog/smaller-faster-websites
@@ -224,9 +224,9 @@
   - https://rachsmith.com/2017/i-dont-have-imposter-syndrome
 
 ## 📚 Long Reads
-- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it)
+- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it) ⭐️
 - [The Permanent Transition](https://www.newfangled.com/permanent-transition/)
-- [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
+- [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) ⭐️
 - [The Web’s Grain](http://frankchimero.com/writing/the-webs-grain/)
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 - [Resilient Web Design](https://resilientwebdesign.com)
@@ -257,7 +257,7 @@
 ### 💁 General Job Advice
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+- [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/) ⭐️
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 - [Don’t Get Attached, It’s Just Luck](https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30)
 - [How To Prepare For A Front-End Job Interview](https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/)
@@ -266,7 +266,7 @@
 - [A Guide to the Front-End Interview Process](https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
 - [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5)
 - [Our Hiring Process](https://dev.to/argo/our-hiring-process)
-- [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries)
+- [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries) ⭐️
 - [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 - [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
 - [What are the questions that can be asked when the interviewer asks "Any questions?"](https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions)
@@ -293,15 +293,15 @@
 - [30 Seconds of Interviews](https://30secondsofinterviews.org)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
-- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
+- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook) ⭐️
 - [_Mission: Interview_](https://bigmachine.io/products/mission-interview)
 
 ## 🌎 Chrome Extensions
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
 - [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
-- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance
-- [Octotree](https://github.com/buunguyen/octotree) - Add tree view sidebar to GitHub
+- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance ⭐️
+- [Octotree](https://github.com/buunguyen/octotree) - Add tree view sidebar to GitHub ⭐️
 - [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
 - [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 - [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
