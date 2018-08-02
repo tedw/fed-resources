@@ -26,37 +26,41 @@
 - [MarkSheet HTML & CSS Tutorial](http://marksheet.io)
 - [Table example](http://jsbin.com/OXijigU/edit?html,css,output)
 - [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
-- [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
 - [HTML5 Boilerplate Docs](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com)
-- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)⭐️
 - [HTML5 Validator](https://html5.validator.nu)
 - [MDN HTML Resources](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Form Linter](https://formlinter.com)
 
 ## 🎨 CSS
-- General reference http://tympanus.net/codrops/css_reference
-- Font size units https://css-tricks.com/css-font-size/
-- Units http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When
-- Attribute selectors https://css-tricks.com/attribute-selectors/
-- Box model visualized http://adamkaplan.me/grid/
-- All about floats https://css-tricks.com/all-about-floats/
-- Positioning http://blog.froont.com/positioning-in-web-design/
-- Absolute and relative positioning examples http://output.jsbin.com/okoxol/
-- z-index https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892
-- Percentage-width grid with fixed gutters http://codepen.io/tedw/pen/obPQvr?editors=1100
-- Sass style guidelines https://css-tricks.com/sass-style-guide/
-- Class naming conventions https://medium.com/@cathy_dutton/css-layers-afff4ae66649
-- Class naming advice https://www.sitepoint.com/bem-smacss-advice-from-developers/
-- When to use different naming conventions https://github.com/simurai/simurai.github.io/blob/382a93f49ee8eaacc2a88a8b956315ce9fa03d2f/_posts/2016-11-27-css-methodologies.md
-- More naming advice http://bradfrost.com/blog/post/css-architecture-for-design-systems/
-- Example CSS interview questions https://css-tricks.com/interview-questions-css/
-- Responsive design patterns https://bradfrost.github.io/this-is-responsive/patterns.html
-- Cross-browser CSS tips https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/
+- [CSS Reference](http://tympanus.net/codrops/css_reference/) ⭐️
+- [Font size units](https://css-tricks.com/css-font-size/)
+- [CSS unit comparison](http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When)
+- [Attribute selectors](https://css-tricks.com/attribute-selectors/)
+- [Box model visualized](http://adamkaplan.me/grid/)
+- [All about floats](https://css-tricks.com/all-about-floats/)
+- [Positioning in web design](http://blog.froont.com/positioning-in-web-design/)
+- [Absolute and relative positioning examples](http://output.jsbin.com/okoxol/)
+- [What you may not know about z-index](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
+- [Percentage-width grid with fixed gutters demo](http://codepen.io/tedw/pen/obPQvr?editors=1100)
+- [Sass style guide](https://css-tricks.com/sass-style-guide/)
+- [Overview of class naming conventions](https://medium.com/@cathy_dutton/css-layers-afff4ae66649) ⭐️
+- [Class naming advice](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
+- [More class naming advice](https://github.com/simurai/simurai.github.io/blob/382a93f49ee8eaacc2a88a8b956315ce9fa03d2f/_posts/2016-11-27-css-methodologies.md)
+- [CSS architecture for design systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/)
+- [CSS interview questions](https://css-tricks.com/interview-questions-css/)
+- [Responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
+- [Cross-browser CSS tips](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
+- [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) ⭐️
+- [CSS grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/) ⭐️
+- [Practical CSS grid exmaples](https://gridbyexample.com/patterns/)
+- [Fun CSS grid exmaples](http://labs.jensimmons.com)
 
 ## ⚡️ JS
-- http://eloquentjavascript.net
+- http://eloquentjavascript.net ⭐️
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
 - http://bonsaiden.github.io/JavaScript-Garden/
@@ -92,14 +96,14 @@
 - https://adactio.com/journal/8245 (Jan 2015)
 - http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html (Jan 2015)
 - https://vuejs.org
-- https://vuejs.org/v2/guide/comparison.html
+- https://vuejs.org/v2/guide/comparison.html ⭐️
 - https://adactio.com/journal/9963
   - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 
 ## 📊 Performance
-- http://designingforperformance.com
-- https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/
-- https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
+- [Designing for Performance](http://designingforperformance.com)(ebook)⭐️
+- [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)⭐️
+- [RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 - http://idlewords.com/talks/website_obesity.htm
 - https://bocoup.com/weblog/smaller-faster-websites
 - https://speakerdeck.com/tkadlec/once-more-with-feeling
@@ -114,19 +118,19 @@
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 
 ## ♿️ Accessibility
-- [Inclusive Components](https://inclusive-components.design)
+- [Inclusive Components](https://inclusive-components.design) ⭐️
 - [Tips For Making Accessibility A Core Design Principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
 - [Getting Started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
 - [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)
-- [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
+- [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31) ⭐️
 - [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 - [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
-- [Inclusive Components](https://inclusive-components.design)
 - [Empathy Prompts](https://empathyprompts.net)
 - [What I've Learned About Motor Impairment](http://simpleprimate.com/blog/motor)
 - [An accessibility reading list](https://accessibility.blog.gov.uk/2017/10/23/an-accessibility-reading-list/)
+- [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
 
 ## 📶 Progressive Enhancement
 - http://kryogenix.org/code/browser/everyonehasjs.html
@@ -140,6 +144,7 @@
 - https://sonniesedge.co.uk/blog/progressive-enhancement
 
 ## ✉️ Newsletters
+- https://wdrl.info ⭐️
 - https://webplatformdaily.org
 - http://sidebar.io
 - https://web-design-weekly.com
@@ -149,7 +154,7 @@
 - http://css-weekly.com
 - http://javascriptweekly.com
 - http://www.theuxnewsletter.com
-- http://a11yweekly.com
+- http://a11yweekly.com ⭐️
 
 ## 💬 People to Follow
 - [@addyosmani](https://twitter.com/addyosmani)
@@ -180,6 +185,7 @@
 - [@TrentWalton](https://twitter.com/TrentWalton)
 
 ## 🎉 Misc
+- [Native vs. Progressive Web Apps](https://www.smashingmagazine.com/2018/02/native-and-pwa-choices-not-challengers/) ⭐️
 - [My notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
@@ -284,6 +290,7 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Coderbyte](https://www.coderbyte.com)
 - [HackerRank](https://www.hackerrank.com)
+- [30 Seconds of Interviews](https://30secondsofinterviews.org)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
@@ -302,6 +309,7 @@
 - [Full-page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 - [Copy Link Text](https://chrome.google.com/webstore/detail/copy-link-text/lhdokmjpoambonhlpgcodobebebjdeil) - Adds option to copy link text (not URL)
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+- [StyleURL](https://chrome.google.com/webstore/detail/styleurl/emplcligcppnlalfjknjbanolhlnkmgp) - Easily export and share CSS changes made in the dev tools
 - [Earth View](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh) - Satellite image background in new tabs
 - [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Highlight which elements have JS events bound to them
 - [HTML5 Storage Manager](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd)
@@ -317,6 +325,5 @@
 - [45to75](https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd) - Add character count to context menu
 - [Project Naptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - OCR extension lets you copy text in an image
 - [Share Extensions](https://chrome.google.com/webstore/detail/share-extensions/chdafcbnfkfenoeejpaeenpdamhmalhe) - Export list of all of your extensions
-- [Rails Panel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg) - Haven't used this, but looks cool
 - Lots more out there! https://chrome.google.com/webstore/category/extensions
 - Just be aware that adding extensions can slow down your browser and introduce JS errors. I recommend disabling anything you don’t use regularly.
