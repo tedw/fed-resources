@@ -60,6 +60,7 @@
 - [Fun CSS grid exmaples](http://labs.jensimmons.com)
 
 ## ⚡️ JS
+- [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) ⭐️
 - http://eloquentjavascript.net ⭐️
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
