@@ -9,6 +9,7 @@
 - [📶 Progressive Enhancement](#-progressive-enhancement)
 - [✉️ Newsletters](#️-newsletters)
 - [💬 People to follow](#-people-to-follow)
+- [👋 Meetups](#️-meetups)
 - [🎉 Misc](#-misc)
 - [💻 On Being A Developer](#-on-being-a-developer)
 - [📚 Long Reads](#-long-reads)
@@ -184,6 +185,15 @@
 - [@standardista](https://twitter.com/standardista)
 - [@tameverts](https://twitter.com/tameverts)
 - [@TrentWalton](https://twitter.com/TrentWalton)
+
+## 👋 Meetups
+- [Black Code Collective](http://www.blackcodecollective.com)
+- [Color Coded](http://wearecolorcoded.us)
+- [DC PyLadies](https://www.meetup.com/dc-pyladies/)
+- [DCFemTech](http://dcfemtech.com)
+- [Refresh DC](https://refresh-dc.org/)
+- [Women Who Code DC](https://www.womenwhocode.com/dc)
+- Lots of others https://www.meetup.com/cities/us/dc/washington/tech/
 
 ## 🎉 Misc
 - [Native vs. Progressive Web Apps](https://www.smashingmagazine.com/2018/02/native-and-pwa-choices-not-challengers/) ⭐️
