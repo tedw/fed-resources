@@ -9,7 +9,7 @@
 - [📶 Progressive Enhancement](#-progressive-enhancement)
 - [✉️ Newsletters](#️-newsletters)
 - [💬 People to follow](#-people-to-follow)
-- [👋 Meetups](#️-meetups)
+- [👋 Meetups](#-meetups)
 - [🎉 Misc](#-misc)
 - [💻 On Being A Developer](#-on-being-a-developer)
 - [📚 Long Reads](#-long-reads)
