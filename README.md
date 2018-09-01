@@ -34,6 +34,7 @@
 - [HTML5 Validator](https://html5.validator.nu)
 - [MDN HTML Resources](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Form Linter](https://formlinter.com)
+- [Conversational Semantics](https://alistapart.com/article/conversational-semantics)
 
 ## 🎨 CSS
 - [CSS Reference](http://tympanus.net/codrops/css_reference/) ⭐️
