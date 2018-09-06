@@ -307,6 +307,9 @@
 - [Coderbyte](https://www.coderbyte.com)
 - [HackerRank](https://www.hackerrank.com)
 - [30 Seconds of Interviews](https://30secondsofinterviews.org)
+- [Algorithm example questions](https://learn.freecodecamp.org/coding-interview-prep/algorithms)
+- [Data structure questions](https://learn.freecodecamp.org/coding-interview-prep/data-structures)
+- [JavaScript example problems](https://learn.freecodecamp.org/coding-interview-prep/project-euler)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook) ⭐️
