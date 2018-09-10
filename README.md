@@ -279,6 +279,7 @@
 - [How to Impress an Interviewer](https://medium.com/the-year-of-the-looking-glass/how-to-impress-an-interviewer-c210d9d8e84a)
 - [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 - [A Guide to the Front-End Interview Process](https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
+- [How to Find a Job as a Software Engineer](https://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html)
 - [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5)
 - [Our Hiring Process](https://dev.to/argo/our-hiring-process)
 - [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries) ⭐️
