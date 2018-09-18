@@ -239,12 +239,12 @@
   - https://rachsmith.com/2017/i-dont-have-imposter-syndrome
 
 ## 📚 Long Reads
+- [Resilient Web Design](https://resilientwebdesign.com) ⭐️
 - [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it) ⭐️
 - [The Permanent Transition](https://www.newfangled.com/permanent-transition/)
 - [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) ⭐️
 - [The Web’s Grain](http://frankchimero.com/writing/the-webs-grain/)
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
-- [Resilient Web Design](https://resilientwebdesign.com)
 
 ## 🔎 Job Search Resources
 
