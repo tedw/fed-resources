@@ -245,6 +245,7 @@
 - [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) ⭐️
 - [The Web’s Grain](http://frankchimero.com/writing/the-webs-grain/)
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
+- [A Dao of Web Design](https://alistapart.com/article/dao)
 
 ## 🔎 Job Search Resources
 
