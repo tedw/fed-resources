@@ -147,6 +147,7 @@
 - https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/
 - https://sonniesedge.co.uk/blog/progressive-enhancement
 - https://dev.to/quii/the-web-i-want-43o
+- https://resilientwebdesign.com/chapter6/
 
 ## ✉️ Newsletters
 - https://wdrl.info ⭐️
