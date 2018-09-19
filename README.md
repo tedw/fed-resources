@@ -121,6 +121,7 @@
 - [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 - [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
+- [Udacity Website Performance Optimization Course](https://www.udacity.com/course/website-performance-optimization--ud884)
 
 ## ♿️ Accessibility
 - [Inclusive Components](https://inclusive-components.design) ⭐️
