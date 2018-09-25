@@ -300,6 +300,7 @@
 - [Fixing Impostor Syndrome In Coding Interviews](https://www.interviewcake.com/impostor-syndrome-in-programming-interviews)
 - [Ten Things I Learned from a Job Hunt for a Senior Engineering Role](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html)
 - [Engineering whiteboard interviews: yay or nay?](https://www.keyvalues.com/blog/engineering-whiteboard-interviews-yay-or-nay)
+- [What Matters Most When You Apply: Six Myths Debunked](https://www.viget.com/articles/what-matters-most-when-you-apply-six-myths-debunked/)
 
 ### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
