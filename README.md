@@ -236,6 +236,7 @@
 - https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08
 - https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and
 - https://www.7pace.com/blog/become-a-better-programmer-skills-development
+- https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
