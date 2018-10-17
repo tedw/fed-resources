@@ -65,6 +65,7 @@
 - [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) ⭐️
 - http://eloquentjavascript.net ⭐️
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts/)
 - https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
 - http://bonsaiden.github.io/JavaScript-Garden/
 - http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html
