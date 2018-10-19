@@ -303,6 +303,7 @@
 - [Ten Things I Learned from a Job Hunt for a Senior Engineering Role](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html)
 - [Engineering whiteboard interviews: yay or nay?](https://www.keyvalues.com/blog/engineering-whiteboard-interviews-yay-or-nay)
 - [What Matters Most When You Apply: Six Myths Debunked](https://www.viget.com/articles/what-matters-most-when-you-apply-six-myths-debunked/)
+- [How We Hire Front-End Engineers at The New York Times](https://open.nytimes.com/how-we-hire-front-end-engineers-at-the-new-york-times-e1294ea8e3f8)
 
 ### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
