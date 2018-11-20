@@ -324,6 +324,7 @@
 - [Data structure questions](https://learn.freecodecamp.org/coding-interview-prep/data-structures)
 - [JavaScript example problems](https://learn.freecodecamp.org/coding-interview-prep/project-euler)
 - [Data Structure and Algorithms Interview Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+- [SkillUpper](https://skillupper.com)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook) ⭐️
