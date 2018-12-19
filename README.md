@@ -238,6 +238,7 @@
 - https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and
 - https://www.7pace.com/blog/become-a-better-programmer-skills-development
 - https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
+- https://sizovs.net/2018/12/17/stop-learning-frameworks/
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
