@@ -267,8 +267,9 @@
 - http://www.idealist.org
 - http://stackshare.io/match
 - https://weworkremotely.com (remote positions only)
+- https://www.frontendjobs.tech (front end)
 - Freelance work http://superbooked.com
-- Design and front-end http://dc.aiga.org/jobs/
+- Design and front end http://dc.aiga.org/jobs/
 - Job placement service for NYC and SF https://triplebyte.com
 
 ### 💰 Salaries
