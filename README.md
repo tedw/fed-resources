@@ -308,6 +308,7 @@
 - [How We Hire Front-End Engineers at The New York Times](https://open.nytimes.com/how-we-hire-front-end-engineers-at-the-new-york-times-e1294ea8e3f8)
 - [80,000 Hours Career Guide](https://80000hours.org/career-guide/) ⭐️
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
+- [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324)
 
 ### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
