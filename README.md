@@ -309,6 +309,7 @@
 - [80,000 Hours Career Guide](https://80000hours.org/career-guide/) ⭐️
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324)
+- [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 
 ### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
