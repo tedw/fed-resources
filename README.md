@@ -63,25 +63,27 @@
 
 ## ⚡️ JS
 - [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) ⭐️
-- http://eloquentjavascript.net ⭐️
-- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- [Eloquent JavaScript](http://eloquentjavascript.net) (ebook) ⭐️
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (ebook)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts/)
-- https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145
-- http://bonsaiden.github.io/JavaScript-Garden/
-- http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html
-- https://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954
-- https://www.youtube.com/watch?v=DN4yLZB1vUQ
-- https://es6.io
-- https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
-- https://github.com/getify/You-Dont-Know-JS
-- http://read.humanjavascript.com
-- http://survivejs.com/webpack/introduction/
-- https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5
-- https://30secondsofcode.org
-- https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
-- https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
-- https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a
+- [The Essentials of Writing High-Quality JavaScript](https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145)
+- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript: The Good Parts](http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html) (video)
+- [The Best Way to Learn JavaScript](https://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954)
+- [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) (video)
+- [ES6 for Everyone](https://es6.io)
+- [How to Learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
+- [MDN: Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (ebook)
+- [Human JavaScript](http://read.humanjavascript.com) (ebook)
+- [SurviveJS: Webpack](https://survivejs.com/webpack/) (ebook)
+- [SurviveJS: React](https://survivejs.com/react/) (ebook)
+- [What’s the difference between JavaScript and ECMAScript?](https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5)
+- [30 seconds of code](https://30secondsofcode.org)
+- [How JavaScript works: the rendering engine and tips to optimize its performance](https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
+- [Here are examples of everything new in ECMAScript 2016, 2017, and 2018
+](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+- [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a)
 
 ### 🚀 MVC Frameworks
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
