@@ -156,6 +156,7 @@
 
 ## ✉️ Newsletters
 - https://wdrl.info ⭐️
+  - Also maintains a curated list of must-read articles https://wdrl.info/evergreen
 - https://webplatformdaily.org
 - http://sidebar.io
 - https://web-design-weekly.com
