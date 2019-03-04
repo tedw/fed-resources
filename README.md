@@ -140,17 +140,17 @@
 - [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
 
 ## 📶 Progressive Enhancement
-- http://kryogenix.org/code/browser/everyonehasjs.html
-- http://www.punkchip.com/why-support-javascript-disabled/
-- https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care
-- https://www.christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/
-- https://medium.com/@AaronGustafson/the-true-cost-of-progressive-enhancement-d395b6502979
-- https://zetafleet.com/blog/2015/11/progressive-enhancement-needs-better-advocacy.html
-- https://adactio.com/journal/9963
-- https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/
-- https://sonniesedge.co.uk/blog/progressive-enhancement
-- https://dev.to/quii/the-web-i-want-43o
-- https://resilientwebdesign.com/chapter6/
+- [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
+- [Why we should support users with no JavaScript](http://www.punkchip.com/why-support-javascript-disabled/)
+- [What is Progressive Enhancement and Why Should You Care?](https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care)
+- [Progressive Enhancement is not about JavaScript availability.](https://www.christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/)
+- [The True Cost of Progressive Enhancement](https://medium.com/@AaronGustafson/the-true-cost-of-progressive-enhancement-d395b6502979)
+- [Progressive enhancement needs better advocacy](https://web.archive.org/web/20170126193622/https://zetafleet.com/blog/2015/11/progressive-enhancement-needs-better-advocacy.html)
+- [Where to start?](https://adactio.com/journal/9963)
+- [[Insert Clickbait Headline About Progressive Enhancement Here]](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)
+- [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
+- [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
+- ~https://sonniesedge.co.uk/blog/progressive-enhancement~ (temporarily broken)
 
 ## ✉️ Newsletters
 - https://wdrl.info ⭐️
