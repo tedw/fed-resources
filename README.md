@@ -282,6 +282,7 @@
 - https://stackoverflow.com/jobs/salary
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
+- Rough estimate stock option calculator https://tldroptions.io
 
 ### 💁 General Job Advice
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
