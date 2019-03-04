@@ -271,6 +271,7 @@
 - Freelance work http://superbooked.com
 - Design and front end http://dc.aiga.org/jobs/
 - Job placement service for NYC and SF https://triplebyte.com
+- [Companies that don’t do whiteboard interviews](https://github.com/poteto/hiring-without-whiteboards)
 
 ### 💰 Salaries
 - https://www.glassdoor.com
