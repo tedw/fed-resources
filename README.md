@@ -125,6 +125,7 @@
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 - [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
 - [Udacity Website Performance Optimization Course](https://www.udacity.com/course/website-performance-optimization--ud884)
+- [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 
 ## ♿️ Accessibility
 - [Inclusive Components](https://inclusive-components.design) ⭐️
