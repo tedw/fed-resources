@@ -131,12 +131,11 @@
 
 ## 📊 Performance
 
+- [Designing for Performance](http://designingforperformance.com)(ebook)
+- [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
+
 <details><summary>View More ⬇️</summary>
 
-</details>
-
-- [Designing for Performance](http://designingforperformance.com)(ebook) ⭐️
-- [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) ⭐️
 - [RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 - http://idlewords.com/talks/website_obesity.htm
 - https://bocoup.com/weblog/smaller-faster-websites
@@ -154,6 +153,8 @@
 - [Udacity Website Performance Optimization Course](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+</details>
+
 
 ## ♿️ Accessibility
 
@@ -374,13 +375,21 @@
 
 
 ### 🤔 Technical Interview Prep
+
+- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
+- [Interview Cake](https://www.interviewcake.com)
+- [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+<details><summary>View More ⬇️</summary>
+
+- [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
+- [_Mission: Interview_](https://bigmachine.io/products/mission-interview)
 - [Career Cup](https://www.careercup.com)
 - [LeetCode](https://leetcode.com)
-- [Glassdoor](https://www.glassdoor.com/Interview/)
-- [Interview Cake](https://www.interviewcake.com)
+- [Glassdoor interview questions](https://www.glassdoor.com/Interview/)
 - [Codility](https://app.codility.com/programmers/)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
-- [Udacity Technical Interview Course](https://www.udacity.com/course/technical-interview--ud513)
 - [Daily Coding Problem](https://dailycodingproblem.com)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Coderbyte](https://www.coderbyte.com)
@@ -393,28 +402,25 @@
 - [SkillUpper](https://skillupper.com)
 - [30 Seconds of Knowledge](https://30secondsofknowledge.petrovicstefan.rs)
 - [Dynamic programming interview questions](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
-- [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-- [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
-- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook) ⭐️
-- [_Mission: Interview_](https://bigmachine.io/products/mission-interview)
+</details>
+
 
 ## 🌎 Chrome Extensions
 
 - [Octotree](https://github.com/buunguyen/octotree) - Adds folder tree sidebar to GitHub
 - [Octolinker](http://octolinker.github.io) - Make package names clickable in package.json
 - [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
-- [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
-- [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
 - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 
 <details><summary>View More ⬇️</summary>
-
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
+- [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
 - [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance
 - [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
 - [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
+- [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
 - [Full-page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 - [Copy Link Text](https://chrome.google.com/webstore/detail/copy-link-text/lhdokmjpoambonhlpgcodobebebjdeil) - Adds option to copy link text (not URL)
 - [StyleURL](https://chrome.google.com/webstore/detail/styleurl/emplcligcppnlalfjknjbanolhlnkmgp) - Easily export and share CSS changes made in the dev tools
