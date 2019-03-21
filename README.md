@@ -1,4 +1,4 @@
-# Front-End Dev Resources
+# Web Dev Resources
 
 - [🏢 HTML](#-html)
 - [🎨 CSS](#-css)
@@ -21,23 +21,35 @@
 - [🌎 Chrome Extensions](#-chrome-extensions)
 
 ## 🏢 HTML
+
 - [Periodic table of HTML elements](https://madebymike.com.au/html5-periodic-table/)
+- [MarkSheet HTML & CSS Tutorial](http://marksheet.io)
+- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+
+<details><summary>View More ⬇️</summary>
+  
 - [HTML5 Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [The Truth About HTML5](http://www.truthabouthtml5.com) (book)
-- [MarkSheet HTML & CSS Tutorial](http://marksheet.io)
 - [Table example](http://jsbin.com/OXijigU/edit?html,css,output)
 - [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 - [HTML5 Boilerplate Docs](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com)
-- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/) ⭐️
 - [HTML5 Validator](https://html5.validator.nu)
 - [MDN HTML Resources](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Form Linter](https://formlinter.com)
 - [Conversational Semantics](https://alistapart.com/article/conversational-semantics)
+</details>
 
 ## 🎨 CSS
-- [CSS Reference](http://tympanus.net/codrops/css_reference/) ⭐️
+
+- [CSS Reference](http://tympanus.net/codrops/css_reference/)
+- [Overview of class naming conventions](https://medium.com/@cathy_dutton/css-layers-afff4ae66649)
+- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+<details><summary>View More ⬇️</summary>
+
 - [Font size units](https://css-tricks.com/css-font-size/)
 - [CSS unit comparison](http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When)
 - [Attribute selectors](https://css-tricks.com/attribute-selectors/)
@@ -48,7 +60,6 @@
 - [What you may not know about z-index](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 - [Percentage-width grid with fixed gutters demo](http://codepen.io/tedw/pen/obPQvr?editors=1100)
 - [Sass style guide](https://css-tricks.com/sass-style-guide/)
-- [Overview of class naming conventions](https://medium.com/@cathy_dutton/css-layers-afff4ae66649) ⭐️
 - [Class naming advice](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
 - [More class naming advice](https://github.com/simurai/simurai.github.io/blob/382a93f49ee8eaacc2a88a8b956315ce9fa03d2f/_posts/2016-11-27-css-methodologies.md)
 - [CSS architecture for design systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/)
@@ -56,14 +67,17 @@
 - [Responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Cross-browser CSS tips](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
-- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) ⭐️
-- [CSS grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/) ⭐️
 - [Practical CSS grid exmaples](https://gridbyexample.com/patterns/)
 - [Fun CSS grid exmaples](http://labs.jensimmons.com)
+</details>
 
 ## ⚡️ JS
-- [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) ⭐️
-- [Eloquent JavaScript](http://eloquentjavascript.net) (ebook) ⭐️
+
+- [Eloquent JavaScript](http://eloquentjavascript.net) (ebook)
+- [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+
+<details><summary>View More ⬇️</summary>
+
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (ebook)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts/)
 - [The Essentials of Writing High-Quality JavaScript](https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145)
@@ -84,8 +98,14 @@
 - [Here are examples of everything new in ECMAScript 2016, 2017, and 2018
 ](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 - [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a)
+</details>
 
 ### 🚀 MVC Frameworks
+
+- [Framework Comparison](https://vuejs.org/v2/guide/comparison.html)
+
+<details><summary>View More ⬇️</summary>
+
 - https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/
 - To-do app examples using various MVC frameworks http://todomvc.com
 - https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/
@@ -103,11 +123,18 @@
 - https://adactio.com/journal/8245 (Jan 2015)
 - http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html (Jan 2015)
 - https://vuejs.org
-- https://vuejs.org/v2/guide/comparison.html ⭐️
 - https://adactio.com/journal/9963
   - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
+</details>
+
+
 
 ## 📊 Performance
+
+<details><summary>View More ⬇️</summary>
+
+</details>
+
 - [Designing for Performance](http://designingforperformance.com)(ebook) ⭐️
 - [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) ⭐️
 - [RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
@@ -129,11 +156,15 @@
 - [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 
 ## ♿️ Accessibility
-- [Inclusive Components](https://inclusive-components.design) ⭐️
+
+- [Inclusive Components](https://inclusive-components.design)
+- [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
+
+<details><summary>View More ⬇️</summary>
+
 - [Tips For Making Accessibility A Core Design Principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
 - [Getting Started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
 - [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)
-- [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31) ⭐️
 - [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
@@ -142,9 +173,16 @@
 - [What I've Learned About Motor Impairment](http://simpleprimate.com/blog/motor)
 - [An accessibility reading list](https://accessibility.blog.gov.uk/2017/10/23/an-accessibility-reading-list/)
 - [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
+</details>
+
 
 ## 📶 Progressive Enhancement
+
+- [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
 - [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
+
+<details><summary>View More ⬇️</summary>
+
 - [Why we should support users with no JavaScript](http://www.punkchip.com/why-support-javascript-disabled/)
 - [What is Progressive Enhancement and Why Should You Care?](https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care)
 - [Progressive Enhancement is not about JavaScript availability.](https://www.christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/)
@@ -153,8 +191,9 @@
 - [Where to start?](https://adactio.com/journal/9963)
 - [[Insert Clickbait Headline About Progressive Enhancement Here]](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)
 - [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
-- [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
-- ~https://sonniesedge.co.uk/blog/progressive-enhancement~ (temporarily broken)
+- [Yes, progressive enhancement is a fucking moral argument](https://sonniesedge.co.uk/blog/progressive-enhancement)
+</details>
+
 
 ## ✉️ Newsletters
 - https://wdrl.info ⭐️
@@ -224,6 +263,13 @@
 - Web Architecture 101 https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
 ## 💻 On Being A Developer
+
+- [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
+- [Reality is messy](http://www.the-haystack.com/2016/01/05/reality-is-messy/)
+- [Overcoming Impostor Syndrome](https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5)
+
+<details><summary>View More ⬇️</summary>
+
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
 - http://learntocodewith.me/posts/what-new-coders-must-know/
 - http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
@@ -234,11 +280,9 @@
 - https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 - http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 - http://alistapart.com/article/defeating-workplace-drama-with-emotional-intelligence
-- http://www.the-haystack.com/2016/01/05/reality-is-messy/
 - http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 - https://css-tricks.com/front-end-developer-aware/
 - https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f
-- https://frankchimero.com/writing/everything-easy-is-hard-again/
 - https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08
 - https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and
 - https://www.7pace.com/blog/become-a-better-programmer-skills-development
@@ -250,6 +294,8 @@
   - https://davidwalsh.name/impostor-syndrome
   - https://trackchanges.postlight.com/were-all-frauds-2fbd9b4440b6
   - https://rachsmith.com/2017/i-dont-have-imposter-syndrome
+</details>
+
 
 ## 📚 Long Reads
 - [Resilient Web Design](https://resilientwebdesign.com) ⭐️
@@ -289,9 +335,16 @@
 - Rough estimate stock option calculator https://tldroptions.io
 
 ### 💁 General Job Advice
+
+- [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+- [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
+- [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries)
+- [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
+
+<details><summary>View More ⬇️</summary>
+
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/) ⭐️
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 - [Don’t Get Attached, It’s Just Luck](https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30)
 - [How To Prepare For A Front-End Job Interview](https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/)
@@ -301,12 +354,10 @@
 - [How to Find a Job as a Software Engineer](https://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html)
 - [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5)
 - [Our Hiring Process](https://dev.to/argo/our-hiring-process)
-- [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries) ⭐️
 - [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 - [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
 - [What are the questions that can be asked when the interviewer asks "Any questions?"](https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions)
 - [Job rejection stories](http://rejected.us)
-- [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
 - [Stack Overflow Developer Hiring Blog](https://business.stackoverflow.com/blog)
 - [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
@@ -315,11 +366,12 @@
 - [Engineering whiteboard interviews: yay or nay?](https://www.keyvalues.com/blog/engineering-whiteboard-interviews-yay-or-nay)
 - [What Matters Most When You Apply: Six Myths Debunked](https://www.viget.com/articles/what-matters-most-when-you-apply-six-myths-debunked/)
 - [How We Hire Front-End Engineers at The New York Times](https://open.nytimes.com/how-we-hire-front-end-engineers-at-the-new-york-times-e1294ea8e3f8)
-- [80,000 Hours Career Guide](https://80000hours.org/career-guide/) ⭐️
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324)
 - [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+</details>
+
 
 ### 🤔 Technical Interview Prep
 - [Career Cup](https://www.careercup.com)
@@ -347,27 +399,31 @@
 - [_Mission: Interview_](https://bigmachine.io/products/mission-interview)
 
 ## 🌎 Chrome Extensions
-- [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
+
+- [Octotree](https://github.com/buunguyen/octotree) - Adds folder tree sidebar to GitHub
+- [Octolinker](http://octolinker.github.io) - Make package names clickable in package.json
 - [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
-- [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
-- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance ⭐️
-- [Octotree](https://github.com/buunguyen/octotree) - Add tree view sidebar to GitHub ⭐️
-- [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
-- [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
+- [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
 - [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
 - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
+- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+
+<details><summary>View More ⬇️</summary>
+
+- [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
+- [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
+- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance
+- [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
+- [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 - [Full-page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 - [Copy Link Text](https://chrome.google.com/webstore/detail/copy-link-text/lhdokmjpoambonhlpgcodobebebjdeil) - Adds option to copy link text (not URL)
-- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 - [StyleURL](https://chrome.google.com/webstore/detail/styleurl/emplcligcppnlalfjknjbanolhlnkmgp) - Easily export and share CSS changes made in the dev tools
 - [Earth View](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh) - Satellite image background in new tabs
 - [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Highlight which elements have JS events bound to them
 - [HTML5 Storage Manager](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd)
 - [EditThisCookie](http://www.editthiscookie.com)
-- [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
 - [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Accessibility audit
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-- [Octolinker](http://octolinker.github.io) - Make package names clickable in package.json
 - [Datalayer Inspector](https://chrome.google.com/webstore/detail/datalayer-inspector/kmcbdogdandhihllalknlcjfpdjcleom) - Log Google Tag Manager data to console 
 - [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) - Debug Google Tag Manager
 - [Google Analytics Debugger](https://github.com/keithclark/gadebugger)
@@ -377,3 +433,4 @@
 - [Share Extensions](https://chrome.google.com/webstore/detail/share-extensions/chdafcbnfkfenoeejpaeenpdamhmalhe) - Export list of all of your extensions
 - Lots more out there! https://chrome.google.com/webstore/category/extensions
 - Just be aware that adding extensions can slow down your browser and introduce JS errors. I recommend disabling anything you don’t use regularly.
+</details>
