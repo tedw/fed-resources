@@ -41,6 +41,8 @@
 - [Conversational Semantics](https://alistapart.com/article/conversational-semantics)
 </details>
 
+<br>
+
 ## 🎨 CSS
 
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
@@ -71,6 +73,8 @@
 - [Fun CSS grid exmaples](http://labs.jensimmons.com)
 </details>
 
+<br>
+
 ## ⚡️ JS
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) (ebook)
@@ -100,6 +104,8 @@
 - [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a)
 </details>
 
+<br>
+
 ### 🚀 MVC Frameworks
 
 - [Framework Comparison](https://vuejs.org/v2/guide/comparison.html)
@@ -127,7 +133,7 @@
   - “Server-side rendering is not a fallback; client-side rendering is an enhancement.”
 </details>
 
-
+<br>
 
 ## 📊 Performance
 
@@ -155,6 +161,7 @@
 - [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 </details>
 
+<br>
 
 ## ♿️ Accessibility
 
@@ -176,6 +183,7 @@
 - [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
 </details>
 
+<br>
 
 ## 📶 Progressive Enhancement
 
@@ -195,10 +203,16 @@
 - [Yes, progressive enhancement is a fucking moral argument](https://sonniesedge.co.uk/blog/progressive-enhancement)
 </details>
 
+<br>
 
 ## ✉️ Newsletters
-- https://wdrl.info ⭐️
+
+- [Web Development Reading List](https://wdrl.info)
   - Also maintains a curated list of must-read articles https://wdrl.info/evergreen
+- [Accessibility Weekly](http://a11yweekly.com)
+
+<details><summary>View More ⬇️</summary>
+  
 - https://webplatformdaily.org
 - http://sidebar.io
 - https://web-design-weekly.com
@@ -208,35 +222,47 @@
 - http://css-weekly.com
 - http://javascriptweekly.com
 - http://www.theuxnewsletter.com
-- http://a11yweekly.com ⭐️
+- https://unread.it/n/tech
+</details>
+
+<br>
 
 ## 💬 People to Follow
+
+Just a few of my favorite devs to follow on Twitter:
+
 - [@addyosmani](https://twitter.com/addyosmani)
+- [@chriscoyier](https://twitter.com/chriscoyier)
+- [@lara_hogan](https://twitter.com/lara_hogan)
+- [@LeaVerou](https://twitter.com/LeaVerou)
+- [@MinaMarkham](https://twitter.com/MinaMarkham)
+- [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+
+<details><summary>View More ⬇️</summary>
+
 - [@ag_dubs](https://twitter.com/ag_dubs)
 - [@anna_debenham](https://twitter.com/anna_debenham)
 - [@beep](https://twitter.com/beep)
 - [@brad_frost](https://twitter.com/brad_frost)
-- [@chriscoyier](https://twitter.com/chriscoyier)
 - [@csswizardry](https://twitter.com/csswizardry)
 - [@dhh](https://twitter.com/dhh)
 - [@igrigorik](https://twitter.com/igrigorik)
 - [@jensimmons](https://twitter.com/jensimmons)
-- [@lara_hogan](https://twitter.com/lara_hogan)
-- [@LeaVerou](https://twitter.com/LeaVerou)
 - [@LeonieWatson](https://twitter.com/LeonieWatson)
 - [@meyerweb](https://twitter.com/meyerweb)
-- [@MinaMarkham](https://twitter.com/MinaMarkham)
 - [@mylifeasalllly](https://twitter.com/mylifeasalllly)
 - [@newsycombinator](https://twitter.com/newsycombinator)
 - [@paul_irish](https://twitter.com/paul_irish)
 - [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)
 - [@rem](https://twitter.com/rem)
 - [@sarah_edo](https://twitter.com/sarah_edo)
-- [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 - [@smashingmag](https://twitter.com/smashingmag)
 - [@standardista](https://twitter.com/standardista)
 - [@tameverts](https://twitter.com/tameverts)
 - [@TrentWalton](https://twitter.com/TrentWalton)
+</details>
+
+<br>
 
 ## 👋 Meetups
 - [Black Code Collective](http://www.blackcodecollective.com)
@@ -247,9 +273,15 @@
 - [Women Who Code DC](https://www.womenwhocode.com/dc)
 - Lots of others https://www.meetup.com/cities/us/dc/washington/tech/
 
+<br>
+
 ## 🎉 Misc
-- [Native vs. Progressive Web Apps](https://www.smashingmagazine.com/2018/02/native-and-pwa-choices-not-challengers/) ⭐️
-- [My notes on mobile apps](https://workflowy.com/s/fWWDZ19wgN) (native vs. web, stats, resources)
+
+- [How DNS works](https://howdns.works)
+- [Native vs. Progressive Web Apps](https://www.smashingmagazine.com/2018/02/native-and-pwa-choices-not-challengers/)
+- [How the Internet Travels Across Oceans](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html)
+
+<details><summary>View More ⬇️</summary>
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - http://fedsonslack.com
@@ -258,10 +290,12 @@
 - https://github.com/sindresorhus/awesome
 - https://codefights.com
 - https://devfreebooks.github.io
-- Guide to cross-browser testing https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-- How DNS works https://howdns.works
-- You Are Not Paid to Write Code http://bravenewgeek.com/you-are-not-paid-to-write-code/
-- Web Architecture 101 https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+- [Guide to cross-browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
+- [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/)
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+</details>
+
+<br>
 
 ## 💻 On Being A Developer
 
@@ -297,6 +331,7 @@
   - https://rachsmith.com/2017/i-dont-have-imposter-syndrome
 </details>
 
+<br>
 
 ## 📚 Long Reads
 - [Resilient Web Design](https://resilientwebdesign.com) ⭐️
@@ -307,25 +342,33 @@
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 - [A Dao of Web Design](https://alistapart.com/article/dao)
 
+<br>
+
 ## 🔎 Job Search Resources
 
 ### 📰 Job Boards
-- http://www.authenticjobs.com
+
 - https://jobs.github.com/positions
 - http://careers.stackoverflow.com
 - http://jobs.smashingmagazine.com
+- http://www.idealist.org
+
+<details><summary>View More ⬇️</summary>
+
+- http://www.authenticjobs.com
 - https://codepen.io/jobs
 - http://zurb.com/jobs
 - http://www.krop.com/creative-jobs/developer/
-- http://www.idealist.org
 - http://stackshare.io/match
 - https://weworkremotely.com (remote positions only)
 - https://remotehub.io (remote companies)
 - https://www.frontendjobs.tech (front end)
 - Freelance work http://superbooked.com
 - Design and front end http://dc.aiga.org/jobs/
-- Job placement service for NYC and SF https://triplebyte.com
+- Job placement service for NYC, SF, LA, and Seattle https://triplebyte.com
 - [Companies that don’t do whiteboard interviews](https://github.com/poteto/hiring-without-whiteboards)
+</details>
+
 
 ### 💰 Salaries
 - https://www.glassdoor.com
@@ -373,6 +416,7 @@
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 </details>
 
+<br>
 
 ### 🤔 Technical Interview Prep
 
@@ -404,6 +448,7 @@
 - [Dynamic programming interview questions](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
 </details>
 
+<br>
 
 ## 🌎 Chrome Extensions
 
