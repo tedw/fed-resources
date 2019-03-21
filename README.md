@@ -20,6 +20,8 @@
   - [🤔 Technical Interview Prep](#-technical-interview-prep)
 - [🌎 Chrome Extensions](#-chrome-extensions)
 
+<br>
+
 ## 🏢 HTML
 
 - [Periodic table of HTML elements](https://madebymike.com.au/html5-periodic-table/)
@@ -346,6 +348,8 @@ Just a few of my favorite devs to follow on Twitter:
 
 ## 🔎 Job Search Resources
 
+<br>
+
 ### 📰 Job Boards
 
 - https://jobs.github.com/positions
@@ -369,6 +373,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Companies that don’t do whiteboard interviews](https://github.com/poteto/hiring-without-whiteboards)
 </details>
 
+<br>
 
 ### 💰 Salaries
 - https://www.glassdoor.com
@@ -377,6 +382,8 @@ Just a few of my favorite devs to follow on Twitter:
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
 - Rough estimate stock option calculator https://tldroptions.io
+
+<br>
 
 ### 💁 General Job Advice
 
