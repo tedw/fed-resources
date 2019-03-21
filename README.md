@@ -141,6 +141,7 @@
 
 - [Designing for Performance](http://designingforperformance.com)(ebook)
 - [Why Perceived Performance Matters](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
+- [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/)
 
 <details><summary>View More ⬇️</summary>
 
