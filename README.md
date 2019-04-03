@@ -285,6 +285,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [How the Internet Travels Across Oceans](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html)
 
 <details><summary>View More ⬇️</summary>
+  
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - http://fedsonslack.com
