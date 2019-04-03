@@ -338,10 +338,10 @@ Just a few of my favorite devs to follow on Twitter:
 <br>
 
 ## 📚 Long Reads
-- [Resilient Web Design](https://resilientwebdesign.com) ⭐️
-- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it) ⭐️
+- [Resilient Web Design](https://resilientwebdesign.com)
+- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (very long read, but worth it)
 - [The Permanent Transition](https://www.newfangled.com/permanent-transition/)
-- [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) ⭐️
+- [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
 - [The Web’s Grain](http://frankchimero.com/writing/the-webs-grain/)
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 - [A Dao of Web Design](https://alistapart.com/article/dao)
