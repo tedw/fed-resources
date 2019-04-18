@@ -457,6 +457,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [SkillUpper](https://skillupper.com)
 - [30 Seconds of Knowledge](https://30secondsofknowledge.petrovicstefan.rs)
 - [Dynamic programming interview questions](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
+- [Coding Interview Questions](https://www.byte-by-byte.com/coding-interview-questions/) ([video walkthroughs](https://www.youtube.com/watch?v=iAHQopLuZ4Q))
 </details>
 
 <br>
