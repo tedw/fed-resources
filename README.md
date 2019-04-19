@@ -393,9 +393,9 @@ Just a few of my favorite devs to follow on Twitter:
 
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
-- [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries)
-- [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
-
+- [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries) (questions to ask interviewers)
+- [80,000 Hours Career Guide](https://80000hours.org/career-guide/how-to-get-a-job/)
+- [How To Get Any Job You Want](https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m) (_long_ but good general advice)
 <details><summary>View More ⬇️</summary>
 
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
@@ -425,6 +425,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324)
 - [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [Why You?: 101 Interview Questions You'll Never Fear Again](https://smile.amazon.com/Why-You-Interview-Questions-Youll/dp/0241297133/) (book)
 </details>
 
 <br>
