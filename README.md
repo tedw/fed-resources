@@ -173,6 +173,7 @@
 - [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 
 <details><summary>View More ⬇️</summary>
+  
 - [Planning for Accessibility](http://alistapart.com/article/planning-for-accessibility/)
 - [A DIY Web Accessibility Blueprint](http://alistapart.com/article/diy-web-accessibility-blueprint/)
 - [Tips For Making Accessibility A Core Design Principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
