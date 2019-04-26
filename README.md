@@ -437,6 +437,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
 - [Interview Cake](https://www.interviewcake.com)
 - [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+- [You can’t fix diversity in tech without fixing the technical interview.](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) (good stats and historical info on technical interviews)
 
 <details><summary>View More ⬇️</summary>
 
