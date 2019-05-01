@@ -364,9 +364,9 @@ Just a few of my favorite devs to follow on Twitter:
 
 <details><summary>View More ⬇️</summary>
 
+- https://80000hours.org/job-board/
 - http://www.authenticjobs.com
 - https://codepen.io/jobs
-- http://zurb.com/jobs
 - http://www.krop.com/creative-jobs/developer/
 - http://stackshare.io/match
 - https://weworkremotely.com (remote positions only)
