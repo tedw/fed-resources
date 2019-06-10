@@ -310,7 +310,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
 - [Reality is messy](http://www.the-haystack.com/2016/01/05/reality-is-messy/)
 - [Overcoming Impostor Syndrome](https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5)
-
+- [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 <details><summary>View More ⬇️</summary>
 
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
