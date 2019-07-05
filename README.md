@@ -208,6 +208,7 @@
 - [[Insert Clickbait Headline About Progressive Enhancement Here]](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)
 - [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
 - [Yes, progressive enhancement is a fucking moral argument](https://sonniesedge.co.uk/blog/progressive-enhancement)
+- [Building a resilient frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 </details>
 
 <br>
