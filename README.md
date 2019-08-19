@@ -164,6 +164,7 @@
 - [Udacity Website Performance Optimization Course](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+- [Performance Matters](https://www.hillelwayne.com/post/performance-matters/)
 </details>
 
 <br>
