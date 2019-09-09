@@ -469,6 +469,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Dynamic programming interview questions](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
 - [Coding Interview Questions](https://www.byte-by-byte.com/coding-interview-questions/) ([video walkthroughs](https://www.youtube.com/watch?v=iAHQopLuZ4Q))
 - [Google coding interview example](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
+- [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 </details>
 
 <br>
