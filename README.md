@@ -418,6 +418,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 - [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a)
 - [What are the questions that can be asked when the interviewer asks "Any questions?"](https://www.quora.com/What-are-the-questions-that-can-be-asked-when-the-interviewer-asks-Any-questions)
+- [Questions to ask the company during your interview](https://github.com/viraptor/reverse-interview)
 - [A simple guide to coding interviews](https://medium.com/@BenSassiAladin/a-simple-guide-to-coding-interviews-d16a57bf7f97)
 - [Job rejection stories](http://rejected.us)
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
