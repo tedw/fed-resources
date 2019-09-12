@@ -446,6 +446,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
 - [Interview Cake](https://www.interviewcake.com)
 - [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+- [Watch technical mock interviews with big tech companies](https://interviewing.io/recordings/) (videos)
 - [You can’t fix diversity in tech without fixing the technical interview.](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) (good stats and historical info on technical interviews)
 
 <details><summary>View More ⬇️</summary>
@@ -473,7 +474,6 @@ Just a few of my favorite devs to follow on Twitter:
 - [Dynamic programming interview questions](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
 - [Coding Interview Questions](https://www.byte-by-byte.com/coding-interview-questions/) ([video walkthroughs](https://www.youtube.com/watch?v=iAHQopLuZ4Q))
 - [Google coding interview example](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
-- [Technical mock interview vidoes with engineers from Google, Amazon, and more](https://interviewing.io/recordings/) (videos)
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 - [Passing The System Design Interview For Software Engineers](https://www.theseattledataguy.com/passing-the-system-design-interview-for-software-engineers/)
 </details>
