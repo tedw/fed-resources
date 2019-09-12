@@ -392,8 +392,10 @@ Just a few of my favorite devs to follow on Twitter:
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
 - https://triplebyte.com/software-engineer-salary (NY, SF, Seattle)
 - Rough estimate stock option calculator https://tldroptions.io
+- [Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
 - Job title comparisons at large tech companies https://www.levels.fyi
 - [Recent grad offers from big tech companies in 2019](https://blog.jonlu.ca/posts/tech-offers)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 <br>
 
 ### 💁 General Job Advice
