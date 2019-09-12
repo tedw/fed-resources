@@ -393,6 +393,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://triplebyte.com/software-engineer-salary (NY, SF, Seattle)
 - Rough estimate stock option calculator https://tldroptions.io
 - Job title comparisons at large tech companies https://www.levels.fyi
+- [Recent grad offers from big tech companies in 2019](https://blog.jonlu.ca/posts/tech-offers)
 <br>
 
 ### 💁 General Job Advice
