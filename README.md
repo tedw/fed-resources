@@ -438,6 +438,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [Why You?: 101 Interview Questions You'll Never Fear Again](https://smile.amazon.com/Why-You-Interview-Questions-Youll/dp/0241297133/) (book)
+- [Writing A Federal Government Resume](https://handbook.18f.gov/resume/)
 </details>
 
 <br>
