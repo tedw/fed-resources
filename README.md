@@ -397,6 +397,7 @@ Just a few of my favorite devs to follow on Twitter:
 - Job title comparisons at large tech companies https://www.levels.fyi
 - [Recent grad offers from big tech companies in 2019](https://blog.jonlu.ca/posts/tech-offers)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [#SalaryTransparency](https://twitter.com/search?q=%23SalaryTransparency)
 <br>
 
 ### 💁 General Job Advice
@@ -491,6 +492,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 
 <details><summary>View More ⬇️</summary>
+  
 - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
 - [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
