@@ -373,8 +373,9 @@ Just a few of my favorite devs to follow on Twitter:
 - https://codepen.io/jobs
 - http://www.krop.com/creative-jobs/developer/
 - http://stackshare.io/match
-- https://weworkremotely.com (remote positions only)
-- https://remotehub.io (remote companies)
+- https://weworkremotely.com (remote jobs)
+- https://remotehub.io (remote jobs)
+- https://remoteok.io/remote-dev-jobs (remote jobs)
 - https://www.frontendjobs.tech (front end)
 - [https://www.usajobs.gov](https://www.usajobs.gov/Search/?k=javascript&p=1) (government jobs)
 - Freelance work http://superbooked.com
