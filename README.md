@@ -32,6 +32,7 @@
   
 - [HTML5 Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [The Truth About HTML5](http://www.truthabouthtml5.com) (book)
+- [Guide to &lt;head&gt; element](https://htmlhead.dev)
 - [Table example](http://jsbin.com/OXijigU/edit?html,css,output)
 - [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 - [HTML5 Boilerplate Docs](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
