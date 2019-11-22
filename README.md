@@ -166,6 +166,7 @@
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 - [Performance Matters](https://www.hillelwayne.com/post/performance-matters/)
+- [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 </details>
 
 <br>
