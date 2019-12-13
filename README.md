@@ -81,10 +81,11 @@
 ## ⚡️ JS
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) (ebook)
-- [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [The Cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
 
 <details><summary>View More ⬇️</summary>
 
+- [The Cost of JavaScript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (ebook)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts/)
 - [The Essentials of Writing High-Quality JavaScript](https://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145)
@@ -149,16 +150,16 @@
 <details><summary>View More ⬇️</summary>
 
 - [RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
-- http://idlewords.com/talks/website_obesity.htm
-- https://bocoup.com/weblog/smaller-faster-websites
-- https://speakerdeck.com/tkadlec/once-more-with-feeling
-- https://speakerdeck.com/addyosmani/css-performance-tooling
-- https://speakerdeck.com/smashingmag/improving-web-fonts-performance
-- https://jonsuh.com/blog/need-for-speed-2/
--	https://www.zachleat.com/web/comprehensive-webfonts/
-- http://deanhume.com/Home/BlogPost/ten-things-you-didnt-know-about-webpagetest-org/10145
-- https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf
-- https://medium.com/reloading/javascript-start-up-performance-69200f43b201
+- [The Website Obesity Crisis](http://idlewords.com/talks/website_obesity.htm)
+- [Smaller, Faster Websites](https://bocoup.com/weblog/smaller-faster-websites)
+- [Once More, With Feeling](https://speakerdeck.com/tkadlec/once-more-with-feeling)
+- [CSS Performance Tooling](https://speakerdeck.com/addyosmani/css-performance-tooling)
+- [Improving Web Fonts Performance](https://speakerdeck.com/smashingmag/improving-web-fonts-performance)
+- [Need for Speed 2: Improving Front-End Performance](https://jonsuh.com/blog/need-for-speed-2/)
+-	[A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [Ten Things you didn't know about WebPageTest.org](http://deanhume.com/Home/BlogPost/ten-things-you-didnt-know-about-webpagetest-org/10145)
+- [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 - [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 - [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
