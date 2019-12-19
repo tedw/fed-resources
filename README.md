@@ -199,11 +199,11 @@
 
 ## 📶 Progressive Enhancement
 
-- [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
+- [Building a resilient frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 - [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 
 <details><summary>View More ⬇️</summary>
-
+- [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
 - [Why we should support users with no JavaScript](http://www.punkchip.com/why-support-javascript-disabled/)
 - [What is Progressive Enhancement and Why Should You Care?](https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care)
 - [Progressive Enhancement is not about JavaScript availability.](https://www.christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/)
@@ -213,7 +213,6 @@
 - [[Insert Clickbait Headline About Progressive Enhancement Here]](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)
 - [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
 - [Yes, progressive enhancement is a fucking moral argument](https://sonniesedge.co.uk/blog/progressive-enhancement)
-- [Building a resilient frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 </details>
 
 <br>
