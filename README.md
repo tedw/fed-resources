@@ -203,6 +203,7 @@
 - [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 
 <details><summary>View More ⬇️</summary>
+  
 - [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
 - [Why we should support users with no JavaScript](http://www.punkchip.com/why-support-javascript-disabled/)
 - [What is Progressive Enhancement and Why Should You Care?](https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care)
