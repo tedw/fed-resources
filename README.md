@@ -355,6 +355,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [The Web’s Grain](http://frankchimero.com/writing/the-webs-grain/)
 - [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 - [A Dao of Web Design](https://alistapart.com/article/dao)
+- [Timeless Web Dev Articles](https://css-tricks.com/timeless-web-dev-articles/)
 
 <br>
 
