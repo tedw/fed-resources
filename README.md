@@ -317,6 +317,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Reality is messy](http://www.the-haystack.com/2016/01/05/reality-is-messy/)
 - [Overcoming Impostor Syndrome](https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5)
 - [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [Elpha](https://elpha.com/top/coding) (advice from women in tech)
 <details><summary>View More ⬇️</summary>
 
 - https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
