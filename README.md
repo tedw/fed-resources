@@ -410,6 +410,7 @@ Just a few of my favorite devs to follow on Twitter:
 ### 💁 General Job Advice
 
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+- [40 Top Common Job Interview Questions & Answers](https://zety.com/blog/job-interview-questions-and-answers)
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries) (questions to ask interviewers)
 - [80,000 Hours Career Guide](https://80000hours.org/career-guide/how-to-get-a-job/)
