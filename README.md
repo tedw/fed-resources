@@ -465,6 +465,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_Mission: Interview_](https://bigmachine.io/products/mission-interview/)
+- [100+ Coding Interview Problems with Detailed Solutions](https://github.com/hoanhan101/algo)
 - [Acing the Google Interview](https://www.byte-by-byte.com/google-interview/)
 - [Career Cup](https://www.careercup.com)
 - [LeetCode](https://leetcode.com)
