@@ -108,6 +108,7 @@
 - [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a)
 - [You Don’t Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 - [A Minimal JavaScript Setup](https://css-tricks.com/a-minimal-javascript-setup/)
+- [Plain JS DOM manipulation](https://htmldom.dev)
 </details>
 
 <br>
