@@ -407,6 +407,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Recent grad offers from big tech companies in 2019](https://blog.jonlu.ca/posts/tech-offers)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [#SalaryTransparency](https://twitter.com/search?q=%23SalaryTransparency)
+- [Comparing Software Engineer Salaries Across Cities](https://javednissar.ca/comparing-software-engineer-salaries-across-cities/)
 <br>
 
 ### 💁 General Job Advice
