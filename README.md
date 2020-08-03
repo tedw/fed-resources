@@ -452,6 +452,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [Why You?: 101 Interview Questions You'll Never Fear Again](https://smile.amazon.com/Why-You-Interview-Questions-Youll/dp/0241297133/) (book)
 - [Writing A Federal Government Resume](https://handbook.18f.gov/resume/)
+- [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 </details>
 
 <br>
