@@ -453,6 +453,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Why You?: 101 Interview Questions You'll Never Fear Again](https://smile.amazon.com/Why-You-Interview-Questions-Youll/dp/0241297133/) (book)
 - [Writing A Federal Government Resume](https://handbook.18f.gov/resume/)
 - [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
+- [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
 </details>
 
 <br>
