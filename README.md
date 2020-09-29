@@ -340,6 +340,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 - https://sizovs.net/2018/12/17/stop-learning-frameworks/
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
+- [Non-Programming Skills for Programmers](https://welearncode.com/most-important-nonprogramming/)
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
