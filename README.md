@@ -341,6 +341,8 @@ Just a few of my favorite devs to follow on Twitter:
 - https://sizovs.net/2018/12/17/stop-learning-frameworks/
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
 - [Non-Programming Skills for Programmers](https://welearncode.com/most-important-nonprogramming/)
+- [Junior To Senior Developer: Career Progression For Programmers](https://www.ladybug.dev/episodes/junior-to-senior-developer)
+- [The Career Advice I Wish I Had](https://dev.to/aspittel/the-career-advice-i-wish-i-had-pm0)
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
