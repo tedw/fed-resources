@@ -344,6 +344,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Junior To Senior Developer: Career Progression For Programmers](https://www.ladybug.dev/episodes/junior-to-senior-developer)
 - [The Career Advice I Wish I Had](https://dev.to/aspittel/the-career-advice-i-wish-i-had-pm0)
 - [Women equal men in computing skill, but are less confident](https://thenextweb.com/syndication/2020/10/04/women-equal-men-in-computing-skill-but-are-less-confident/)
+- [The Art of Comments](https://css-tricks.com/the-art-of-comments/)
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
