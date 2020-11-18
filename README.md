@@ -339,6 +339,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://www.7pace.com/blog/become-a-better-programmer-skills-development
 - https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 - https://sizovs.net/2018/12/17/stop-learning-frameworks/
+- [The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e)
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
 - [Non-Programming Skills for Programmers](https://welearncode.com/most-important-nonprogramming/)
 - [Junior To Senior Developer: Career Progression For Programmers](https://www.ladybug.dev/episodes/junior-to-senior-developer)
