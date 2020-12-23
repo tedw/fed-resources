@@ -50,8 +50,7 @@
 
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
 - [Overview of class naming conventions](https://medium.com/@cathy_dutton/css-layers-afff4ae66649)
-- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [CSS grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Utility Classes and “Separation of Concerns”](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 
 <details><summary>View More ⬇️</summary>
 
@@ -72,6 +71,8 @@
 - [Responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Cross-browser CSS tips](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Practical CSS grid exmaples](https://gridbyexample.com/patterns/)
 - [Fun CSS grid exmaples](http://labs.jensimmons.com)
 </details>
