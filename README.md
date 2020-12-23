@@ -65,6 +65,7 @@
 - [What you may not know about z-index](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 - [Percentage-width grid with fixed gutters demo](http://codepen.io/tedw/pen/obPQvr?editors=1100)
 - [Sass style guide](https://css-tricks.com/sass-style-guide/)
+- [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 - [Class naming advice](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
 - [More class naming advice](https://github.com/simurai/simurai.github.io/blob/382a93f49ee8eaacc2a88a8b956315ce9fa03d2f/_posts/2016-11-27-css-methodologies.md)
 - [CSS architecture for design systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/)
