@@ -51,6 +51,7 @@
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
 - [Overview of class naming conventions](https://medium.com/@cathy_dutton/css-layers-afff4ae66649)
 - [CSS Utility Classes and “Separation of Concerns”](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+- [Caniuse](https://caniuse.com) (browser support reference)
 
 <details><summary>View More ⬇️</summary>
 
