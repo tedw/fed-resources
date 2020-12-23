@@ -48,13 +48,13 @@
 
 ## 🎨 CSS
 
-- [CSS Reference](http://tympanus.net/codrops/css_reference/)
 - [Overview of class naming conventions](https://medium.com/@cathy_dutton/css-layers-afff4ae66649)
 - [CSS Utility Classes and “Separation of Concerns”](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [Caniuse](https://caniuse.com) (browser support reference)
 
 <details><summary>View More ⬇️</summary>
 
+- [CSS Reference](http://tympanus.net/codrops/css_reference/)
 - [Font size units](https://css-tricks.com/css-font-size/)
 - [CSS unit comparison](http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When)
 - [Attribute selectors](https://css-tricks.com/attribute-selectors/)
