@@ -467,6 +467,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [14 Lessons I Learned From Doing 60+ Technical Interviews in 30 Days](https://medium.com/@meekg33k/14-lessons-i-learned-from-doing-60-technical-interviews-in-30-days-7732e4f7608d)
 - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
 - [I’ve been an engineer and a recruiter. Hiring is broken. Here’s why… and what it should be like instead.](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
+- [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
 </details>
 
 <br>
