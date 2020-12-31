@@ -468,6 +468,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
 - [I’ve been an engineer and a recruiter. Hiring is broken. Here’s why… and what it should be like instead.](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
 - [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
+- [How To Excel At Your Job As A New Developer](https://letterstoanewdeveloper.com/2019/08/26/how-to-excel-at-your-job-as-a-new-developer/)
 </details>
 
 <br>
