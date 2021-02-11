@@ -244,6 +244,19 @@
 
 <br>
 
+## 🎧 Podcasts
+
+- [CodeNewbie](https://www.codenewbie.org/podcast)
+- [CodePen Radio](https://blog.codepen.io/radio/)
+- [Developer Tea](https://developertea.com)
+- [Front End Happy Hour](https://frontendhappyhour.com)
+- [JS Party](https://changelog.com/jsparty)
+- [Ladybug Podcast](https://www.ladybug.dev)
+- [ShopTalk Show](https://shoptalkshow.com)
+- [Syntax](https://syntax.fm)
+
+<br>
+
 ## 💬 People to Follow
 
 Just a few of my favorite devs to follow on Twitter:
