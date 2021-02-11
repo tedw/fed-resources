@@ -8,6 +8,7 @@
 - [♿️ Accessibility](#️-accessibility)
 - [📶 Progressive Enhancement](#-progressive-enhancement)
 - [✉️ Newsletters](#️-newsletters)
+- [🎧 Podcasts](#-podcasts)
 - [💬 People to follow](#-people-to-follow)
 - [👋 Meetups](#-meetups)
 - [🎉 Misc](#-misc)
