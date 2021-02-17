@@ -532,37 +532,35 @@ Just a few of my favorite devs to follow on Twitter:
 
 ## 🌎 Chrome Extensions
 
+- [Refined GitHub](https://github.com/sindresorhus/refined-github)
 - [Octotree](https://github.com/buunguyen/octotree) - Adds folder tree sidebar to GitHub
 - [Octolinker](http://octolinker.github.io) - Make package names clickable in package.json
 - [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
-- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 
 <details><summary>View More ⬇️</summary>
   
-- [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
+- [Live Reload](https://github.com/blaise-io/live-reload)  
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
 - [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
-- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Create guidelines to measure distance
+- [Auto Tab Discard](https://chrome.google.com/webstore/detail/auto-tab-discard/jhnleheckmknfcgijgkadoemagpecfol) - Automatically reduce memory load of inactive tabs
+- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Drop guidelines on page to measure distances
+- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
 - [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
 - [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 - [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
-- [Full-page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 - [Copy Link Text](https://chrome.google.com/webstore/detail/copy-link-text/lhdokmjpoambonhlpgcodobebebjdeil) - Adds option to copy link text (not URL)
 - [StyleURL](https://chrome.google.com/webstore/detail/styleurl/emplcligcppnlalfjknjbanolhlnkmgp) - Easily export and share CSS changes made in the dev tools
 - [Earth View](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh) - Satellite image background in new tabs
 - [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Highlight which elements have JS events bound to them
-- [HTML5 Storage Manager](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd)
-- [EditThisCookie](http://www.editthiscookie.com)
+- [Swoosh Cookie and Local Storage Specialist](https://chrome.google.com/webstore/detail/swoosh-cookie-and-local-s/giompennnhheakjcnobejbnjgbbkmdnd)
 - [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Accessibility audit
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 - [Datalayer Inspector](https://chrome.google.com/webstore/detail/datalayer-inspector/kmcbdogdandhihllalknlcjfpdjcleom) - Log Google Tag Manager data to console 
 - [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) - Debug Google Tag Manager
 - [Google Analytics Debugger](https://github.com/keithclark/gadebugger)
 - [CSS Peeper](https://csspeeper.com) - Displays an element’s CSS styling in an attractive widget, along with color palette info and links to all assets
-- [45to75](https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd) - Add character count to context menu
 - [Project Naptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - OCR extension lets you copy text in an image
-- [Share Extensions](https://chrome.google.com/webstore/detail/share-extensions/chdafcbnfkfenoeejpaeenpdamhmalhe) - Export list of all of your extensions
-- Lots more out there! https://chrome.google.com/webstore/category/extensions
+- [Web Developer Toolbar](http://chrispederick.com/work/web-developer/) (great for beginners!)
 - Just be aware that adding extensions can slow down your browser and introduce JS errors. I recommend disabling anything you don’t use regularly.
 </details>
