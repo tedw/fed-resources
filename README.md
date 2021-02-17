@@ -532,7 +532,7 @@ Just a few of my favorite devs to follow on Twitter:
 
 ## 🌎 Chrome Extensions
 
-- [Refined GitHub](https://github.com/sindresorhus/refined-github)
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features
 - [Octotree](https://github.com/buunguyen/octotree) - Adds folder tree sidebar to GitHub
 - [Octolinker](http://octolinker.github.io) - Make package names clickable in package.json
 - [SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo) - Adds thumbnail previews to search results
