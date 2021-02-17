@@ -331,31 +331,31 @@ Just a few of my favorite devs to follow on Twitter:
 
 ## 💻 On Being A Developer
 
-- [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
 - [Reality is messy](http://www.the-haystack.com/2016/01/05/reality-is-messy/)
 - [Overcoming Impostor Syndrome](https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5)
 - [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 - [Elpha](https://elpha.com/top/coding) (advice from women in tech)
+- [The Real Reason Women Quit Tech (and How to Address It)](https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd)
 <details><summary>View More ⬇️</summary>
 
-- https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
-- http://learntocodewith.me/posts/what-new-coders-must-know/
-- http://boingboing.net/2015/05/11/the-only-technique-to-learn-so.html
-- https://www.newfangled.com/tips-from-the-pragmatic-programmer/
-- https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
-- http://blog.hut8labs.com/coding-fast-and-slow.html
-- https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/
-- https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
-- http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
-- http://alistapart.com/article/defeating-workplace-drama-with-emotional-intelligence
-- http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
-- https://css-tricks.com/front-end-developer-aware/
-- https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f
-- https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08
-- https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and
-- https://www.7pace.com/blog/become-a-better-programmer-skills-development
-- https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
-- https://sizovs.net/2018/12/17/stop-learning-frameworks/
+- [Everything Easy is Hard Again](https://frankchimero.com/blog/2018/everything-easy/)
+- [Please don’t learn to code](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
+- [5 Things Every Code Newbie Needs to Know](http://learntocodewith.me/posts/what-new-coders-must-know/)
+- [On Becoming Pragmatic](https://www.newfangled.com/tips-from-the-pragmatic-programmer/)
+- [The care and feeding of software engineers (or, why engineers are grumpy)](https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/)
+- [Coding, Fast and Slow: Developers and the Psychology of Overconfidence](http://blog.hut8labs.com/coding-fast-and-slow.html)
+- [4 Effective Strategies To Estimate Time For Your Design Projects](https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/)
+- [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+- [How Developers Stop Learning: Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+- [Defeating Workplace Drama with Emotional Intelligence](http://alistapart.com/article/defeating-workplace-drama-with-emotional-intelligence)
+- [On Being A Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [A Front End Developer is Aware](https://css-tricks.com/front-end-developer-aware/)
+- [Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different.](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f)
+- [Leveling up: why developers need to be able to identify technologies with staying power (and how to do it)](https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08)
+- [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
+- [How to Become a Better Software Developer: A Handbook on Personal Performance](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
+- [Notes to Myself on Software Engineering](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d)
+- [Stop learning frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 - [The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e)
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
 - [Non-Programming Skills for Programmers](https://welearncode.com/most-important-nonprogramming/)
