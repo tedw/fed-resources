@@ -529,6 +529,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 - [Passing The System Design Interview For Software Engineers](https://www.theseattledataguy.com/passing-the-system-design-interview-for-software-engineers/)
 - [Behaviorial Interviews](https://www.ladybug.dev/episodes/behavioral-interviews) (Ladybug podcast episode)
+- [The technical interview practice gap, and how it keeps underrepresented groups out of software engineering](https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/)
 </details>
 
 <br>
