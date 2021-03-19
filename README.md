@@ -492,23 +492,20 @@ Just a few of my favorite devs to follow on Twitter:
 <br>
 
 ### 🤔 Technical Interview Prep
-
-- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
-- [Interview Cake](https://www.interviewcake.com)
-- [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-- [Watch technical mock interviews with big tech companies](https://interviewing.io/recordings/) (videos)
-- [You can’t fix diversity in tech without fixing the technical interview.](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) (good stats and historical info on technical interviews)
-
+- [_De-Coding the Technical Interview_](https://technicalinterviews.dev)
+- [LeetCode](https://leetcode.com)
+- https://interviewing.io
 <details><summary>View More ⬇️</summary>
-
+  
+- [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_Mission: Interview_](https://bigmachine.io/products/mission-interview/)
+- [Interview Cake](https://www.interviewcake.com)
+- [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 - [100+ Coding Interview Problems with Detailed Solutions](https://github.com/hoanhan101/algo)
 - [Acing the Google Interview](https://www.byte-by-byte.com/google-interview/)
 - [Career Cup](https://www.careercup.com)
-- [LeetCode](https://leetcode.com)
-- https://interviewing.io
 - [Glassdoor interview questions](https://www.glassdoor.com/Interview/)
 - [Codility](https://app.codility.com/programmers/)
 - [Coding Interview University](https://github.com/jwasham/google-interview-university)
@@ -526,9 +523,11 @@ Just a few of my favorite devs to follow on Twitter:
 - [Dynamic programming interview questions](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
 - [Coding Interview Questions](https://www.byte-by-byte.com/coding-interview-questions/) ([video walkthroughs](https://www.youtube.com/watch?v=iAHQopLuZ4Q))
 - [Google coding interview example](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
+- [interviewing.io—Watch technical mock interviews](https://interviewing.io/recordings/)
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 - [Passing The System Design Interview For Software Engineers](https://www.theseattledataguy.com/passing-the-system-design-interview-for-software-engineers/)
 - [Behaviorial Interviews](https://www.ladybug.dev/episodes/behavioral-interviews) (Ladybug podcast episode)
+- [You can’t fix diversity in tech without fixing the technical interview.](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) (good stats and historical info on technical interviews)
 - [The technical interview practice gap, and how it keeps underrepresented groups out of software engineering](https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/)
 </details>
 
