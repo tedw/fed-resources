@@ -530,6 +530,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [You can’t fix diversity in tech without fixing the technical interview.](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) (good stats and historical info on technical interviews)
 - [The technical interview practice gap, and how it keeps underrepresented groups out of software engineering](https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/)
 - [Why Do Interviewers Ask Linked List Questions?](https://www.hillelwayne.com/post/linked-lists/)
+- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 </details>
 
 <br>
