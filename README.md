@@ -531,6 +531,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [The technical interview practice gap, and how it keeps underrepresented groups out of software engineering](https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/)
 - [Why Do Interviewers Ask Linked List Questions?](https://www.hillelwayne.com/post/linked-lists/)
 - [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
+- [6 Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
 </details>
 
 <br>
