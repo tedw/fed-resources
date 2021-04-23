@@ -404,6 +404,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://codepen.io/jobs
 - http://www.krop.com/creative-jobs/developer/
 - http://stackshare.io/match
+- https://goodjobs.careers
 - https://weworkremotely.com (remote jobs)
 - https://remotehub.io (remote jobs)
 - https://remoteok.io/remote-dev-jobs (remote jobs)
