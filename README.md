@@ -384,6 +384,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [A Dao of Web Design](https://alistapart.com/article/dao)
 - [Timeless Web Dev Articles](https://css-tricks.com/timeless-web-dev-articles/)
 - [Choose Boring Technology](http://boringtechnology.club)
+- [Web History](https://css-tricks.com/category/history/)
 
 <br>
 
