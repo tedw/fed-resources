@@ -440,6 +440,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [What to Say When They Ask For Your Salary History](http://cushychicken.github.io/what-to-say-when-asked-salary-history/)
 - [Salary history bans by state](https://www.hrdive.com/news/salary-history-ban-states-list/516662/) (most states forbid employers from asking about your salary history)
+- [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 <br>
 
 ### 💁 General Job Advice
