@@ -327,6 +327,8 @@ Just a few of my favorite devs to follow on Twitter:
 - [Guide to cross-browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
 - [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [Software Engineering principles](https://principles.dev/p/)
+- [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
 </details>
 
 <br>
