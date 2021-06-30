@@ -425,6 +425,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://www.glassdoor.com
 - https://www.linkedin.com/salary/
 - https://www.levels.fyi
+- https://h1bdata.info
 - https://stackoverflow.com/jobs/salary
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
