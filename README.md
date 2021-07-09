@@ -445,6 +445,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Salary history bans by state](https://www.hrdive.com/news/salary-history-ban-states-list/516662/) (most states forbid employers from asking about your salary history)
 - [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 - [Levels.fyi AMA](https://tldr.tech/ama/levels-fyi)
+- [Levels.fyi Pay Report 2020](https://www.levels.fyi/2020/)
 <br>
 
 ### 💁 General Job Advice
