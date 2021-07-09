@@ -424,13 +424,18 @@ Just a few of my favorite devs to follow on Twitter:
 <br>
 
 ### 💰 Salaries
-- https://www.glassdoor.com
+
+- https://stackoverflow.com/jobs/salary
 - https://www.linkedin.com/salary/
 - https://www.levels.fyi
 - https://h1bdata.info
-- https://stackoverflow.com/jobs/salary
+
+<details><summary>View More ⬇️</summary>
+- https://www.glassdoor.com
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
+- [Levels.fyi AMA](https://tldr.tech/ama/levels-fyi)
+- [Levels.fyi Pay Report 2020](https://www.levels.fyi/2020/)
 - https://triplebyte.com/software-engineer-salary (NY, SF, Seattle)
 - Rough estimate stock option calculator https://tldroptions.io
 - [Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
@@ -444,8 +449,8 @@ Just a few of my favorite devs to follow on Twitter:
 - [What to Say When They Ask For Your Salary History](http://cushychicken.github.io/what-to-say-when-asked-salary-history/)
 - [Salary history bans by state](https://www.hrdive.com/news/salary-history-ban-states-list/516662/) (most states forbid employers from asking about your salary history)
 - [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
-- [Levels.fyi AMA](https://tldr.tech/ama/levels-fyi)
-- [Levels.fyi Pay Report 2020](https://www.levels.fyi/2020/)
+</details>
+
 <br>
 
 ### 💁 General Job Advice
