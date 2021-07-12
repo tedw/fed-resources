@@ -503,6 +503,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
 - [How To Excel At Your Job As A New Developer](https://letterstoanewdeveloper.com/2019/08/26/how-to-excel-at-your-job-as-a-new-developer/)
 - [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture)
+- [Good Twitter thread re. hiring juniors from a former Uber, Skype, and Microsoft employee](https://twitter.com/gergelyorosz/status/1413912545610674182)
 </details>
 
 <br>
