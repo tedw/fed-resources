@@ -456,12 +456,14 @@ Just a few of my favorite devs to follow on Twitter:
 
 ### 💁 General Job Advice
 
+- [The Tech Resume Inside Out](https://thetechresume.com) ([free for recent grads](https://thetechresume.com/complimentary-copy.html))
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
 - [40 Top Common Job Interview Questions & Answers](https://zety.com/blog/job-interview-questions-and-answers)
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [Key Values: Culture Queries](https://www.keyvalues.com/culture-queries) (questions to ask interviewers)
 - [80,000 Hours Career Guide](https://80000hours.org/career-guide/how-to-get-a-job/)
 - [How To Get Any Job You Want](https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m) (_long_ but good general advice)
+
 <details><summary>View More ⬇️</summary>
 
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
@@ -512,6 +514,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [_De-Coding the Technical Interview_](https://technicalinterviews.dev)
 - [LeetCode](https://leetcode.com)
 - https://interviewing.io
+
 <details><summary>View More ⬇️</summary>
   
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
