@@ -405,7 +405,6 @@ Just a few of my favorite devs to follow on Twitter:
 
 - https://80000hours.org/job-board/
 - http://www.authenticjobs.com
-- https://codepen.io/jobs
 - http://www.krop.com/creative-jobs/developer/
 - http://stackshare.io/match
 - https://goodjobs.careers
@@ -415,6 +414,8 @@ Just a few of my favorite devs to follow on Twitter:
 - https://gowfh.com (remote jobs)
 - https://www.frontendjobs.tech (front end)
 - [https://www.usajobs.gov](https://www.usajobs.gov/Search/?k=javascript&p=1) (government jobs)
+- https://www.diversifytech.co/job-board/
+- https://www.pocitjobs.com
 - Freelance work http://superbooked.com
 - Design and front end http://dc.aiga.org/jobs/
 - Job placement service for NYC, SF, LA, and Seattle https://triplebyte.com
