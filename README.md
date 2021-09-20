@@ -411,7 +411,6 @@ Just a few of my favorite devs to follow on Twitter:
 - https://remotehub.io (remote jobs)
 - https://remoteok.io/remote-dev-jobs (remote jobs)
 - https://gowfh.com (remote jobs)
-- https://www.frontendjobs.tech (front end)
 - [https://www.usajobs.gov](https://www.usajobs.gov/Search/?k=javascript&p=1) (government jobs)
 - https://www.diversifytech.co/job-board/
 - https://www.pocitjobs.com
