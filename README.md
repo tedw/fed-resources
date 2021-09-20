@@ -396,15 +396,14 @@ Just a few of my favorite devs to follow on Twitter:
 
 ### 📰 Job Boards
 
-- https://jobs.github.com/positions
 - http://careers.stackoverflow.com
 - http://jobs.smashingmagazine.com
 - http://www.idealist.org
+- http://www.authenticjobs.com
 
 <details><summary>View More ⬇️</summary>
 
 - https://80000hours.org/job-board/
-- http://www.authenticjobs.com
 - http://www.krop.com/creative-jobs/developer/
 - http://stackshare.io/match
 - https://goodjobs.careers
