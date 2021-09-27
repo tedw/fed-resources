@@ -434,6 +434,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://www.glassdoor.com
 - https://open.buffer.com/transparent-salaries/
 - https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/edit#gid=1023506792
+- [2021 Female Salaries in Tech](https://docs.google.com/spreadsheets/d/1ewqoXMqFTrSKiBrntPwR1Lnv6lHMFZfaL_dy6ivY8zo/edit)
 - [Levels.fyi AMA](https://tldr.tech/ama/levels-fyi)
 - [Levels.fyi Pay Report 2020](https://www.levels.fyi/2020/)
 - https://triplebyte.com/software-engineer-salary (NY, SF, Seattle)
