@@ -450,6 +450,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [What to Say When They Ask For Your Salary History](http://cushychicken.github.io/what-to-say-when-asked-salary-history/)
 - [Salary history bans by state](https://www.hrdive.com/news/salary-history-ban-states-list/516662/) (most states forbid employers from asking about your salary history)
 - [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+- [How to Evaluate Startup Offers](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 </details>
 
 <br>
