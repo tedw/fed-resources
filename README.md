@@ -367,6 +367,9 @@ Just a few of my favorite devs to follow on Twitter:
 - [Non-Programming Skills for Programmers](https://welearncode.com/most-important-nonprogramming/)
 - [Junior To Senior Developer: Career Progression For Programmers](https://www.ladybug.dev/episodes/junior-to-senior-developer)
 - [Women equal men in computing skill, but are less confident](https://thenextweb.com/syndication/2020/10/04/women-equal-men-in-computing-skill-but-are-less-confident/)
+- [Willingness to look stupid](https://danluu.com/look-stupid/)
+- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
+- [136 facts every web dev should know](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
