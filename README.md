@@ -87,6 +87,7 @@
 ## ⚡️ JS
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) (ebook)
+- [The Modern JavaScript Tutorial](https://javascript.info)
 - [The Cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
 
 <details><summary>View More ⬇️</summary>
