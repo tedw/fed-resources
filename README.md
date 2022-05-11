@@ -81,6 +81,7 @@
 - [CSS grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Practical CSS grid exmaples](https://gridbyexample.com/patterns/)
 - [Fun CSS grid exmaples](http://labs.jensimmons.com)
+- [Deep Dive into Text Wrapping and Word Breaking](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking/)
 </details>
 
 <br>
