@@ -529,6 +529,7 @@ Just a few of my favorite devs to follow on Twitter:
 <details><summary>View More ⬇️</summary>
   
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
+- [Insider Advice on how you can Pass FAANG Interviews](https://zainrizvi.gumroad.com/l/insider-advice-on-how-you-can-pass-faang-interviews) ($25)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_Mission: Interview_](https://bigmachine.io/products/mission-interview/)
