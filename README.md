@@ -60,6 +60,7 @@
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
 - [Font size units](https://css-tricks.com/css-font-size/)
 - [CSS unit comparison](http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [Attribute selectors](https://css-tricks.com/attribute-selectors/)
 - [Box model visualized](http://adamkaplan.me/grid/)
 - [All about floats](https://css-tricks.com/all-about-floats/)
