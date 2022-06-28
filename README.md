@@ -478,6 +478,7 @@ Just a few of my favorite devs to follow on Twitter:
 
 <details><summary>View More ⬇️</summary>
 
+- [Things I Wish I’d Known Earlier In My Career](https://www.smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/)
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [I Passed The Google Technical Interviews; You Can Too.](https://dev.to/emmabostian/i-passed-the-google-technical-interviews-you-can-too-4i6m)
