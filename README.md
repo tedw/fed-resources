@@ -30,7 +30,7 @@
 - [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
 
 <details><summary>View More ⬇️</summary>
-  
+
 - [HTML5 Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [The Truth About HTML5](http://www.truthabouthtml5.com) (book)
 - [Guide to &lt;head&gt; element](https://htmlhead.dev)
@@ -54,7 +54,7 @@
 - [Caniuse](https://caniuse.com) (browser support reference)
 
 <details><summary>View More ⬇️</summary>
-  
+
 - [Learn CSS](https://web.dev/learn/css/layout/)
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
@@ -189,7 +189,7 @@
 - [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 
 <details><summary>View More ⬇️</summary>
-  
+
 - [Planning for Accessibility](http://alistapart.com/article/planning-for-accessibility/)
 - [A DIY Web Accessibility Blueprint](http://alistapart.com/article/diy-web-accessibility-blueprint/)
 - [Tips For Making Accessibility A Core Design Principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
@@ -214,7 +214,7 @@
 - [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 
 <details><summary>View More ⬇️</summary>
-  
+
 - [Resilient Web Design Ch. 6: Steps](https://resilientwebdesign.com/chapter6/)
 - [Why we should support users with no JavaScript](http://www.punkchip.com/why-support-javascript-disabled/)
 - [What is Progressive Enhancement and Why Should You Care?](https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care)
@@ -236,7 +236,7 @@
 - [Accessibility Weekly](http://a11yweekly.com)
 
 <details><summary>View More ⬇️</summary>
-  
+
 - https://webplatformdaily.org
 - http://sidebar.io
 - https://web-design-weekly.com
@@ -296,7 +296,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)
 - [@rem](https://twitter.com/rem)
 - [@sarah_edo](https://twitter.com/sarah_edo)
-- [@shidonichan](https://twitter.com/shidonichan)  
+- [@shidonichan](https://twitter.com/shidonichan)
 - [@smashingmag](https://twitter.com/smashingmag)
 - [@standardista](https://twitter.com/standardista)
 - [@tameverts](https://twitter.com/tameverts)
@@ -323,7 +323,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [How the Internet Travels Across Oceans](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html)
 
 <details><summary>View More ⬇️</summary>
-  
+
 - https://uptodate.frontendrescue.org
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - http://fedsonslack.com
@@ -529,7 +529,7 @@ Just a few of my favorite devs to follow on Twitter:
 - https://interviewing.io
 
 <details><summary>View More ⬇️</summary>
-  
+
 - [_The Imposter’s Handbook_](https://bigmachine.io/products/the-imposters-handbook)
 - [Insider Advice on how you can Pass FAANG Interviews](https://zainrizvi.gumroad.com/l/insider-advice-on-how-you-can-pass-faang-interviews) ($25)
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
@@ -582,13 +582,13 @@ Just a few of my favorite devs to follow on Twitter:
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 
 <details><summary>View More ⬇️</summary>
-  
-- [Live Reload](https://github.com/blaise-io/live-reload)  
+
+- [Live Reload](https://github.com/blaise-io/live-reload)
 - [Quick JS Switcher](https://github.com/maximelebreton/quick-javascript-switcher) - Adds button to toggle JS on/off
 - [Copy All URLs](https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj) - Copy all open tab URLs
 - [Auto Tab Discard](https://chrome.google.com/webstore/detail/auto-tab-discard/jhnleheckmknfcgijgkadoemagpecfol) - Automatically reduce memory load of inactive tabs
 - [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Drop guidelines on page to measure distances
-- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting 
+- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Better JSON source formatting
 - [GitHub Code Folding](https://github.com/noam3127/github-code-folding) - Adds code folding functionality to github.com
 - [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 - [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg) - Beautify JS when viewed in browser
@@ -599,7 +599,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Swoosh Cookie and Local Storage Specialist](https://chrome.google.com/webstore/detail/swoosh-cookie-and-local-s/giompennnhheakjcnobejbnjgbbkmdnd)
 - [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Accessibility audit
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-- [Datalayer Inspector](https://chrome.google.com/webstore/detail/datalayer-inspector/kmcbdogdandhihllalknlcjfpdjcleom) - Log Google Tag Manager data to console 
+- [Datalayer Inspector](https://chrome.google.com/webstore/detail/datalayer-inspector/kmcbdogdandhihllalknlcjfpdjcleom) - Log Google Tag Manager data to console
 - [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) - Debug Google Tag Manager
 - [Google Analytics Debugger](https://github.com/keithclark/gadebugger)
 - [CSS Peeper](https://csspeeper.com) - Displays an element’s CSS styling in an attractive widget, along with color palette info and links to all assets
