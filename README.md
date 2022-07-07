@@ -354,6 +354,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Reality is messy](http://www.the-haystack.com/2016/01/05/reality-is-messy/)
 - [Everything Easy is Hard Again](https://frankchimero.com/blog/2018/everything-easy/)
 - [5 Things Every Code Newbie Needs to Know](http://learntocodewith.me/posts/what-new-coders-must-know/)
+- [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 - [Front of the Front / Back of the Front](https://css-tricks.com/front-of-the-front-back-of-the-front/)
 - [The care and feeding of software engineers (or, why engineers are grumpy)](https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/)
 - [Coding, Fast and Slow: Developers and the Psychology of Overconfidence](http://blog.hut8labs.com/coding-fast-and-slow.html)
