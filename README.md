@@ -379,6 +379,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [Willingness to look stupid](https://danluu.com/look-stupid/)
 - [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 - [136 facts every web dev should know](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
+- [What I learned working with a senior engineer as a new grad](https://tanishqkancharla.dev/blog/what-i-learned)
 - Imposter syndrome
   - https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
   - https://davidwalsh.name/impostor-syndrome
