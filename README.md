@@ -537,6 +537,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [_Programming Interviews Exposed_](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)
 - [_Mission: Interview_](https://bigmachine.io/products/mission-interview/)
+- [Realistic engineering hiring assessments.](https://www.trytapioca.com/library-of-assessments)
 - [Interview Cake](https://www.interviewcake.com)
 - [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 - [100+ Coding Interview Problems with Detailed Solutions](https://github.com/hoanhan101/algo)
