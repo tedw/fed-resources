@@ -574,6 +574,7 @@ Just a few of my favorite devs to follow on Twitter:
 - [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [On interviewing](https://adambennett.dev/2021/11/on-interviewing/)
 - [What I learned about interviewing](https://lanie.dev/tech/interviewing/)
+- [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 </details>
 
 <br>
